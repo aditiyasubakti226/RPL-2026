@@ -1,0 +1,3434 @@
+{
+  "fileInfos" : [ {
+    "path" : ".agents\\skills\\shadcn-ui\\examples\\auth-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : -76744644,
+      "lastModified" : 1778686042140
+    },
+    "linesOfCode" : 177
+  }, {
+    "path" : ".agents\\skills\\shadcn-ui\\examples\\data-table.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1689652616,
+      "lastModified" : 1778686042140
+    },
+    "linesOfCode" : 313
+  }, {
+    "path" : ".agents\\skills\\shadcn-ui\\examples\\form-pattern.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1393073127,
+      "lastModified" : 1778686042145
+    },
+    "linesOfCode" : 177
+  }, {
+    "path" : "app\\Console\\Commands\\DebugOAIPMH.php",
+    "modificationInfo" : {
+      "contentHash" : -1823327994,
+      "lastModified" : 1778686042647
+    },
+    "linesOfCode" : 97
+  }, {
+    "path" : "app\\Console\\Commands\\HarvestJournalArticles.php",
+    "modificationInfo" : {
+      "contentHash" : 286246352,
+      "lastModified" : 1778686042650
+    },
+    "linesOfCode" : 128
+  }, {
+    "path" : "app\\Console\\Commands\\RefreshFeaturedJournalsCache.php",
+    "modificationInfo" : {
+      "contentHash" : -1030483204,
+      "lastModified" : 1778686042651
+    },
+    "linesOfCode" : 35
+  }, {
+    "path" : "app\\Console\\Commands\\ScrapeMAJUJournals.php",
+    "modificationInfo" : {
+      "contentHash" : 28970566,
+      "lastModified" : 1778686042652
+    },
+    "linesOfCode" : 449
+  }, {
+    "path" : "app\\Console\\Commands\\ShowArticles.php",
+    "modificationInfo" : {
+      "contentHash" : 2021327550,
+      "lastModified" : 1778686042654
+    },
+    "linesOfCode" : 77
+  }, {
+    "path" : "app\\Console\\Commands\\ShowHarvestingLogs.php",
+    "modificationInfo" : {
+      "contentHash" : 579952010,
+      "lastModified" : 1778686042655
+    },
+    "linesOfCode" : 81
+  }, {
+    "path" : "app\\Exceptions\\Handler.php",
+    "modificationInfo" : {
+      "contentHash" : -1690968344,
+      "lastModified" : 1778686042656
+    },
+    "linesOfCode" : 23
+  }, {
+    "path" : "app\\Exceptions\\InvalidCategoryMoveException.php",
+    "modificationInfo" : {
+      "contentHash" : -410178237,
+      "lastModified" : 1778686042657
+    },
+    "linesOfCode" : 51
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\AgendaController.php",
+    "modificationInfo" : {
+      "contentHash" : 2112675878,
+      "lastModified" : 1778686042674
+    },
+    "linesOfCode" : 232
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\AssessmentController.php",
+    "modificationInfo" : {
+      "contentHash" : -1030409462,
+      "lastModified" : 1778686042675
+    },
+    "linesOfCode" : 225
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\AssessmentReviewController.php",
+    "modificationInfo" : {
+      "contentHash" : 821763254,
+      "lastModified" : 1778686042677
+    },
+    "linesOfCode" : 198
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\JournalApprovalController.php",
+    "modificationInfo" : {
+      "contentHash" : -1593929721,
+      "lastModified" : 1778686042677
+    },
+    "linesOfCode" : 141
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\JournalController.php",
+    "modificationInfo" : {
+      "contentHash" : 1575639626,
+      "lastModified" : 1778686042679
+    },
+    "linesOfCode" : 937
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\PembinaanController.php",
+    "modificationInfo" : {
+      "contentHash" : -920528068,
+      "lastModified" : 1778686042679
+    },
+    "linesOfCode" : 223
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\ReviewerController.php",
+    "modificationInfo" : {
+      "contentHash" : 848049612,
+      "lastModified" : 1778686042681
+    },
+    "linesOfCode" : 21
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\UserApprovalController.php",
+    "modificationInfo" : {
+      "contentHash" : 768658507,
+      "lastModified" : 1778686042682
+    },
+    "linesOfCode" : 186
+  }, {
+    "path" : "app\\Http\\Controllers\\AdminKampus\\UserController.php",
+    "modificationInfo" : {
+      "contentHash" : -2053490138,
+      "lastModified" : 1778686042683
+    },
+    "linesOfCode" : 553
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\AccreditationTemplateController.php",
+    "modificationInfo" : {
+      "contentHash" : 530348344,
+      "lastModified" : 1778686042659
+    },
+    "linesOfCode" : 500
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\AdminKampusController.php",
+    "modificationInfo" : {
+      "contentHash" : -1918948413,
+      "lastModified" : 1778686042659
+    },
+    "linesOfCode" : 486
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\AssessmentController.php",
+    "modificationInfo" : {
+      "contentHash" : -1254046786,
+      "lastModified" : 1778686042661
+    },
+    "linesOfCode" : 21
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\BorangIndikatorController.php",
+    "modificationInfo" : {
+      "contentHash" : -1440039651,
+      "lastModified" : 1778686042661
+    },
+    "linesOfCode" : 21
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\DataMasterController.php",
+    "modificationInfo" : {
+      "contentHash" : 284869965,
+      "lastModified" : 1778686042661
+    },
+    "linesOfCode" : 21
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\EssayQuestionController.php",
+    "modificationInfo" : {
+      "contentHash" : 1949029236,
+      "lastModified" : 1778686042663
+    },
+    "linesOfCode" : 198
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\EvaluationCategoryController.php",
+    "modificationInfo" : {
+      "contentHash" : 607600521,
+      "lastModified" : 1778686042665
+    },
+    "linesOfCode" : 191
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\EvaluationIndicatorController.php",
+    "modificationInfo" : {
+      "contentHash" : -1347667234,
+      "lastModified" : 1778686042665
+    },
+    "linesOfCode" : 255
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\EvaluationSubCategoryController.php",
+    "modificationInfo" : {
+      "contentHash" : -696724479,
+      "lastModified" : 1778686042665
+    },
+    "linesOfCode" : 209
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\JournalController.php",
+    "modificationInfo" : {
+      "contentHash" : -868468802,
+      "lastModified" : 1778686042667
+    },
+    "linesOfCode" : 286
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\LppmApprovalController.php",
+    "modificationInfo" : {
+      "contentHash" : -116277567,
+      "lastModified" : 1778686042668
+    },
+    "linesOfCode" : 151
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\PembinaanController.php",
+    "modificationInfo" : {
+      "contentHash" : -393183,
+      "lastModified" : 1778686042669
+    },
+    "linesOfCode" : 223
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\ReviewerController.php",
+    "modificationInfo" : {
+      "contentHash" : -1247162637,
+      "lastModified" : 1778686042671
+    },
+    "linesOfCode" : 23
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\UniversityController.php",
+    "modificationInfo" : {
+      "contentHash" : -1566487632,
+      "lastModified" : 1778686042671
+    },
+    "linesOfCode" : 306
+  }, {
+    "path" : "app\\Http\\Controllers\\Admin\\UserController.php",
+    "modificationInfo" : {
+      "contentHash" : -1698968703,
+      "lastModified" : 1778686042672
+    },
+    "linesOfCode" : 435
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php",
+    "modificationInfo" : {
+      "contentHash" : 1444719998,
+      "lastModified" : 1778686042685
+    },
+    "linesOfCode" : 115
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\ConfirmablePasswordController.php",
+    "modificationInfo" : {
+      "contentHash" : -1571227642,
+      "lastModified" : 1778686042686
+    },
+    "linesOfCode" : 41
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\EmailVerificationNotificationController.php",
+    "modificationInfo" : {
+      "contentHash" : 373571159,
+      "lastModified" : 1778686042687
+    },
+    "linesOfCode" : 24
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\EmailVerificationPromptController.php",
+    "modificationInfo" : {
+      "contentHash" : 1926456260,
+      "lastModified" : 1778686042687
+    },
+    "linesOfCode" : 22
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\LoginRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -77940048,
+      "lastModified" : 1778686042689
+    },
+    "linesOfCode" : 95
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\NewPasswordController.php",
+    "modificationInfo" : {
+      "contentHash" : 1810389796,
+      "lastModified" : 1778686042689
+    },
+    "linesOfCode" : 70
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\PasswordResetLinkController.php",
+    "modificationInfo" : {
+      "contentHash" : 96112745,
+      "lastModified" : 1778686042689
+    },
+    "linesOfCode" : 41
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\RegisteredUserController.php",
+    "modificationInfo" : {
+      "contentHash" : 1182053537,
+      "lastModified" : 1778686042689
+    },
+    "linesOfCode" : 112
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\SocialAuthController.php",
+    "modificationInfo" : {
+      "contentHash" : 837838187,
+      "lastModified" : 1778686042691
+    },
+    "linesOfCode" : 83
+  }, {
+    "path" : "app\\Http\\Controllers\\Auth\\VerifyEmailController.php",
+    "modificationInfo" : {
+      "contentHash" : -1462497341,
+      "lastModified" : 1778686042693
+    },
+    "linesOfCode" : 24
+  }, {
+    "path" : "app\\Http\\Controllers\\Controller.php",
+    "modificationInfo" : {
+      "contentHash" : -943433625,
+      "lastModified" : 1778686042694
+    },
+    "linesOfCode" : 12
+  }, {
+    "path" : "app\\Http\\Controllers\\DashboardController.php",
+    "modificationInfo" : {
+      "contentHash" : -1665393486,
+      "lastModified" : 1778686042694
+    },
+    "linesOfCode" : 281
+  }, {
+    "path" : "app\\Http\\Controllers\\Dikti\\AssessmentController.php",
+    "modificationInfo" : {
+      "contentHash" : -528384995,
+      "lastModified" : 1778686042696
+    },
+    "linesOfCode" : 204
+  }, {
+    "path" : "app\\Http\\Controllers\\HomeController.php",
+    "modificationInfo" : {
+      "contentHash" : 184143709,
+      "lastModified" : 1778686042697
+    },
+    "linesOfCode" : 33
+  }, {
+    "path" : "app\\Http\\Controllers\\Production\\IssueController.php",
+    "modificationInfo" : {
+      "contentHash" : -1834626838,
+      "lastModified" : 1778708826044
+    },
+    "linesOfCode" : 39
+  }, {
+    "path" : "app\\Http\\Controllers\\PublicEventController.php",
+    "modificationInfo" : {
+      "contentHash" : 1466420951,
+      "lastModified" : 1778686042698
+    },
+    "linesOfCode" : 104
+  }, {
+    "path" : "app\\Http\\Controllers\\PublicJournalController.php",
+    "modificationInfo" : {
+      "contentHash" : -227091349,
+      "lastModified" : 1778686042699
+    },
+    "linesOfCode" : 344
+  }, {
+    "path" : "app\\Http\\Controllers\\ResourcesController.php",
+    "modificationInfo" : {
+      "contentHash" : -1780992287,
+      "lastModified" : 1778686042699
+    },
+    "linesOfCode" : 20
+  }, {
+    "path" : "app\\Http\\Controllers\\ReviewerController.php",
+    "modificationInfo" : {
+      "contentHash" : 1702995417,
+      "lastModified" : 1778686042700
+    },
+    "linesOfCode" : 159
+  }, {
+    "path" : "app\\Http\\Controllers\\Settings\\PasswordController.php",
+    "modificationInfo" : {
+      "contentHash" : -1364782386,
+      "lastModified" : 1778686042701
+    },
+    "linesOfCode" : 39
+  }, {
+    "path" : "app\\Http\\Controllers\\Settings\\ProfileController.php",
+    "modificationInfo" : {
+      "contentHash" : -1299202821,
+      "lastModified" : 1778686042703
+    },
+    "linesOfCode" : 117
+  }, {
+    "path" : "app\\Http\\Controllers\\SupportController.php",
+    "modificationInfo" : {
+      "contentHash" : 1509040245,
+      "lastModified" : 1778686042704
+    },
+    "linesOfCode" : 20
+  }, {
+    "path" : "app\\Http\\Controllers\\User\\AssessmentController.php",
+    "modificationInfo" : {
+      "contentHash" : -200123150,
+      "lastModified" : 1778686042705
+    },
+    "linesOfCode" : 616
+  }, {
+    "path" : "app\\Http\\Controllers\\User\\AssessmentIssueController.php",
+    "modificationInfo" : {
+      "contentHash" : -2138340025,
+      "lastModified" : 1778686042705
+    },
+    "linesOfCode" : 143
+  }, {
+    "path" : "app\\Http\\Controllers\\User\\JournalController.php",
+    "modificationInfo" : {
+      "contentHash" : 169643736,
+      "lastModified" : 1778686042706
+    },
+    "linesOfCode" : 362
+  }, {
+    "path" : "app\\Http\\Controllers\\User\\PembinaanController.php",
+    "modificationInfo" : {
+      "contentHash" : 2136853931,
+      "lastModified" : 1778686042707
+    },
+    "linesOfCode" : 312
+  }, {
+    "path" : "app\\Http\\Controllers\\User\\ProfilController.php",
+    "modificationInfo" : {
+      "contentHash" : 2107025852,
+      "lastModified" : 1778686042707
+    },
+    "linesOfCode" : 272
+  }, {
+    "path" : "app\\Http\\Middleware\\CheckJournalOwnership.php",
+    "modificationInfo" : {
+      "contentHash" : -48118969,
+      "lastModified" : 1778686042709
+    },
+    "linesOfCode" : 69
+  }, {
+    "path" : "app\\Http\\Middleware\\CheckRole.php",
+    "modificationInfo" : {
+      "contentHash" : -166261348,
+      "lastModified" : 1778686042709
+    },
+    "linesOfCode" : 39
+  }, {
+    "path" : "app\\Http\\Middleware\\CheckUniversity.php",
+    "modificationInfo" : {
+      "contentHash" : -663573645,
+      "lastModified" : 1778686042710
+    },
+    "linesOfCode" : 59
+  }, {
+    "path" : "app\\Http\\Middleware\\EnsureUserIsActive.php",
+    "modificationInfo" : {
+      "contentHash" : -42725830,
+      "lastModified" : 1778686042710
+    },
+    "linesOfCode" : 41
+  }, {
+    "path" : "app\\Http\\Middleware\\HandleAppearance.php",
+    "modificationInfo" : {
+      "contentHash" : -1846570710,
+      "lastModified" : 1778686042710
+    },
+    "linesOfCode" : 23
+  }, {
+    "path" : "app\\Http\\Middleware\\HandleInertiaRequests.php",
+    "modificationInfo" : {
+      "contentHash" : 1557419649,
+      "lastModified" : 1778686042711
+    },
+    "linesOfCode" : 63
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\StoreAccreditationTemplateRequest.php",
+    "modificationInfo" : {
+      "contentHash" : 133831748,
+      "lastModified" : 1778686042713
+    },
+    "linesOfCode" : 65
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\StoreCategoryRequest.php",
+    "modificationInfo" : {
+      "contentHash" : 1120337126,
+      "lastModified" : 1778686042714
+    },
+    "linesOfCode" : 69
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\StoreEssayRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -238905073,
+      "lastModified" : 1778686042715
+    },
+    "linesOfCode" : 49
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\StoreIndicatorRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -2636822,
+      "lastModified" : 1778686042716
+    },
+    "linesOfCode" : 52
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\StoreSubCategoryRequest.php",
+    "modificationInfo" : {
+      "contentHash" : 1116410452,
+      "lastModified" : 1778686042716
+    },
+    "linesOfCode" : 35
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\UpdateAccreditationTemplateRequest.php",
+    "modificationInfo" : {
+      "contentHash" : 1865580470,
+      "lastModified" : 1778686042717
+    },
+    "linesOfCode" : 72
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\UpdateCategoryRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -178505466,
+      "lastModified" : 1778686042718
+    },
+    "linesOfCode" : 81
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\UpdateEssayRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -1002345124,
+      "lastModified" : 1778686042718
+    },
+    "linesOfCode" : 47
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\UpdateIndicatorRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -260579205,
+      "lastModified" : 1778686042720
+    },
+    "linesOfCode" : 50
+  }, {
+    "path" : "app\\Http\\Requests\\Admin\\UpdateSubCategoryRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -67950957,
+      "lastModified" : 1778686042720
+    },
+    "linesOfCode" : 33
+  }, {
+    "path" : "app\\Http\\Requests\\Auth\\LoginRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -790441790,
+      "lastModified" : 1778686042723
+    },
+    "linesOfCode" : 95
+  }, {
+    "path" : "app\\Http\\Requests\\ImportJournalRequest.php",
+    "modificationInfo" : {
+      "contentHash" : 1128348022,
+      "lastModified" : 1778686042723
+    },
+    "linesOfCode" : 48
+  }, {
+    "path" : "app\\Http\\Requests\\Settings\\ProfileUpdateRequest.php",
+    "modificationInfo" : {
+      "contentHash" : -1890092856,
+      "lastModified" : 1778686042724
+    },
+    "linesOfCode" : 36
+  }, {
+    "path" : "app\\Http\\Requests\\StoreJournalRequest.php",
+    "modificationInfo" : {
+      "contentHash" : 930326704,
+      "lastModified" : 1778686042724
+    },
+    "linesOfCode" : 142
+  }, {
+    "path" : "app\\Http\\Requests\\UpdateJournalRequest.php",
+    "modificationInfo" : {
+      "contentHash" : 191035875,
+      "lastModified" : 1778686042726
+    },
+    "linesOfCode" : 141
+  }, {
+    "path" : "app\\Imports\\JournalsImport.php",
+    "modificationInfo" : {
+      "contentHash" : 593380589,
+      "lastModified" : 1778686042726
+    },
+    "linesOfCode" : 280
+  }, {
+    "path" : "app\\Jobs\\HarvestJournalArticlesJob.php",
+    "modificationInfo" : {
+      "contentHash" : -1883254245,
+      "lastModified" : 1778686042729
+    },
+    "linesOfCode" : 92
+  }, {
+    "path" : "app\\Models\\AccreditationTemplate.php",
+    "modificationInfo" : {
+      "contentHash" : 114136284,
+      "lastModified" : 1778686042729
+    },
+    "linesOfCode" : 282
+  }, {
+    "path" : "app\\Models\\Agenda.php",
+    "modificationInfo" : {
+      "contentHash" : 1612909723,
+      "lastModified" : 1778686042729
+    },
+    "linesOfCode" : 109
+  }, {
+    "path" : "app\\Models\\Article.php",
+    "modificationInfo" : {
+      "contentHash" : -36850748,
+      "lastModified" : 1778686042732
+    },
+    "linesOfCode" : 150
+  }, {
+    "path" : "app\\Models\\AssessmentAttachment.php",
+    "modificationInfo" : {
+      "contentHash" : -1070596582,
+      "lastModified" : 1778686042734
+    },
+    "linesOfCode" : 176
+  }, {
+    "path" : "app\\Models\\AssessmentIssue.php",
+    "modificationInfo" : {
+      "contentHash" : -1407888962,
+      "lastModified" : 1778686042735
+    },
+    "linesOfCode" : 59
+  }, {
+    "path" : "app\\Models\\AssessmentJournalMetadata.php",
+    "modificationInfo" : {
+      "contentHash" : -1858688548,
+      "lastModified" : 1778686042736
+    },
+    "linesOfCode" : 90
+  }, {
+    "path" : "app\\Models\\AssessmentNote.php",
+    "modificationInfo" : {
+      "contentHash" : -1673886324,
+      "lastModified" : 1778686042736
+    },
+    "linesOfCode" : 108
+  }, {
+    "path" : "app\\Models\\AssessmentResponse.php",
+    "modificationInfo" : {
+      "contentHash" : -2010135002,
+      "lastModified" : 1778686042738
+    },
+    "linesOfCode" : 129
+  }, {
+    "path" : "app\\Models\\EssayQuestion.php",
+    "modificationInfo" : {
+      "contentHash" : -1232989679,
+      "lastModified" : 1778686042739
+    },
+    "linesOfCode" : 149
+  }, {
+    "path" : "app\\Models\\EvaluationCategory.php",
+    "modificationInfo" : {
+      "contentHash" : 1168942183,
+      "lastModified" : 1778686042739
+    },
+    "linesOfCode" : 166
+  }, {
+    "path" : "app\\Models\\EvaluationIndicator.php",
+    "modificationInfo" : {
+      "contentHash" : 1864710637,
+      "lastModified" : 1778686042740
+    },
+    "linesOfCode" : 211
+  }, {
+    "path" : "app\\Models\\EvaluationSubCategory.php",
+    "modificationInfo" : {
+      "contentHash" : -1892001925,
+      "lastModified" : 1778686042741
+    },
+    "linesOfCode" : 150
+  }, {
+    "path" : "app\\Models\\Journal.php",
+    "modificationInfo" : {
+      "contentHash" : -811239694,
+      "lastModified" : 1778686042741
+    },
+    "linesOfCode" : 713
+  }, {
+    "path" : "app\\Models\\JournalAssessment.php",
+    "modificationInfo" : {
+      "contentHash" : 1925670341,
+      "lastModified" : 1778686042741
+    },
+    "linesOfCode" : 358
+  }, {
+    "path" : "app\\Models\\JournalReassignment.php",
+    "modificationInfo" : {
+      "contentHash" : -1628023122,
+      "lastModified" : 1778686042741
+    },
+    "linesOfCode" : 154
+  }, {
+    "path" : "app\\Models\\Pembinaan.php",
+    "modificationInfo" : {
+      "contentHash" : 1432598410,
+      "lastModified" : 1778686042743
+    },
+    "linesOfCode" : 318
+  }, {
+    "path" : "app\\Models\\PembinaanRegistration.php",
+    "modificationInfo" : {
+      "contentHash" : 1806605250,
+      "lastModified" : 1778686042745
+    },
+    "linesOfCode" : 304
+  }, {
+    "path" : "app\\Models\\PembinaanRegistrationAttachment.php",
+    "modificationInfo" : {
+      "contentHash" : -2019707567,
+      "lastModified" : 1778686042745
+    },
+    "linesOfCode" : 155
+  }, {
+    "path" : "app\\Models\\PembinaanReview.php",
+    "modificationInfo" : {
+      "contentHash" : -1388813845,
+      "lastModified" : 1778686042747
+    },
+    "linesOfCode" : 159
+  }, {
+    "path" : "app\\Models\\ReviewerAssignment.php",
+    "modificationInfo" : {
+      "contentHash" : 1423897367,
+      "lastModified" : 1778686042747
+    },
+    "linesOfCode" : 225
+  }, {
+    "path" : "app\\Models\\Role.php",
+    "modificationInfo" : {
+      "contentHash" : 279391789,
+      "lastModified" : 1778686042748
+    },
+    "linesOfCode" : 117
+  }, {
+    "path" : "app\\Models\\ScientificField.php",
+    "modificationInfo" : {
+      "contentHash" : -1038963768,
+      "lastModified" : 1778686042748
+    },
+    "linesOfCode" : 121
+  }, {
+    "path" : "app\\Models\\University.php",
+    "modificationInfo" : {
+      "contentHash" : -1334683982,
+      "lastModified" : 1778686042750
+    },
+    "linesOfCode" : 186
+  }, {
+    "path" : "app\\Models\\User.php",
+    "modificationInfo" : {
+      "contentHash" : 1096001887,
+      "lastModified" : 1778686042750
+    },
+    "linesOfCode" : 438
+  }, {
+    "path" : "app\\Notifications\\AssessmentApprovedNotification.php",
+    "modificationInfo" : {
+      "contentHash" : -959972398,
+      "lastModified" : 1778686042752
+    },
+    "linesOfCode" : 64
+  }, {
+    "path" : "app\\Notifications\\AssessmentRevisionRequestedNotification.php",
+    "modificationInfo" : {
+      "contentHash" : -1296632383,
+      "lastModified" : 1778686042752
+    },
+    "linesOfCode" : 64
+  }, {
+    "path" : "app\\Policies\\AccreditationTemplatePolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 1922039754,
+      "lastModified" : 1778686042754
+    },
+    "linesOfCode" : 93
+  }, {
+    "path" : "app\\Policies\\AgendaPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 1159495948,
+      "lastModified" : 1778686042754
+    },
+    "linesOfCode" : 81
+  }, {
+    "path" : "app\\Policies\\EssayQuestionPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : -438481069,
+      "lastModified" : 1778686042755
+    },
+    "linesOfCode" : 87
+  }, {
+    "path" : "app\\Policies\\EvaluationCategoryPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 1469527248,
+      "lastModified" : 1778686042756
+    },
+    "linesOfCode" : 85
+  }, {
+    "path" : "app\\Policies\\EvaluationIndicatorPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : -1895025741,
+      "lastModified" : 1778686042757
+    },
+    "linesOfCode" : 104
+  }, {
+    "path" : "app\\Policies\\EvaluationSubCategoryPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 900486018,
+      "lastModified" : 1778686042757
+    },
+    "linesOfCode" : 93
+  }, {
+    "path" : "app\\Policies\\JournalAssessmentPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : -1820471748,
+      "lastModified" : 1778686042758
+    },
+    "linesOfCode" : 270
+  }, {
+    "path" : "app\\Policies\\JournalPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 48764778,
+      "lastModified" : 1778686042759
+    },
+    "linesOfCode" : 265
+  }, {
+    "path" : "app\\Policies\\PembinaanPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : -99519676,
+      "lastModified" : 1778686042761
+    },
+    "linesOfCode" : 136
+  }, {
+    "path" : "app\\Policies\\PembinaanRegistrationPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 1129881966,
+      "lastModified" : 1778686042761
+    },
+    "linesOfCode" : 255
+  }, {
+    "path" : "app\\Policies\\PembinaanReviewPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : -576035641,
+      "lastModified" : 1778686042761
+    },
+    "linesOfCode" : 169
+  }, {
+    "path" : "app\\Policies\\ReviewerAssignmentPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 518258522,
+      "lastModified" : 1778686042763
+    },
+    "linesOfCode" : 174
+  }, {
+    "path" : "app\\Policies\\UniversityPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 1800312398,
+      "lastModified" : 1778686042763
+    },
+    "linesOfCode" : 91
+  }, {
+    "path" : "app\\Policies\\UserPolicy.php",
+    "modificationInfo" : {
+      "contentHash" : 960859382,
+      "lastModified" : 1778686042765
+    },
+    "linesOfCode" : 238
+  }, {
+    "path" : "app\\Providers\\AppServiceProvider.php",
+    "modificationInfo" : {
+      "contentHash" : -835549553,
+      "lastModified" : 1778686042766
+    },
+    "linesOfCode" : 80
+  }, {
+    "path" : "app\\Services\\JournalCoverService.php",
+    "modificationInfo" : {
+      "contentHash" : 1340073122,
+      "lastModified" : 1778686042768
+    },
+    "linesOfCode" : 89
+  }, {
+    "path" : "app\\Services\\JournalService.php",
+    "modificationInfo" : {
+      "contentHash" : -775049036,
+      "lastModified" : 1778686042769
+    },
+    "linesOfCode" : 140
+  }, {
+    "path" : "app\\Services\\OAIPMHHarvester.php",
+    "modificationInfo" : {
+      "contentHash" : 1002710635,
+      "lastModified" : 1778686042769
+    },
+    "linesOfCode" : 458
+  }, {
+    "path" : "app\\Services\\PublicHomeService.php",
+    "modificationInfo" : {
+      "contentHash" : 286698571,
+      "lastModified" : 1778686042769
+    },
+    "linesOfCode" : 131
+  }, {
+    "path" : "bootstrap\\app.php",
+    "modificationInfo" : {
+      "contentHash" : 581367897,
+      "lastModified" : 1778686042774
+    },
+    "linesOfCode" : 47
+  }, {
+    "path" : "bootstrap\\providers.php",
+    "modificationInfo" : {
+      "contentHash" : -2109436518,
+      "lastModified" : 1778686042774
+    },
+    "linesOfCode" : 5
+  }, {
+    "path" : "config\\app.php",
+    "modificationInfo" : {
+      "contentHash" : 623271531,
+      "lastModified" : 1778686042782
+    },
+    "linesOfCode" : 126
+  }, {
+    "path" : "config\\auth.php",
+    "modificationInfo" : {
+      "contentHash" : 1666853080,
+      "lastModified" : 1778686042782
+    },
+    "linesOfCode" : 115
+  }, {
+    "path" : "config\\cache.php",
+    "modificationInfo" : {
+      "contentHash" : -599413815,
+      "lastModified" : 1778686042784
+    },
+    "linesOfCode" : 108
+  }, {
+    "path" : "config\\cors.php",
+    "modificationInfo" : {
+      "contentHash" : -612623466,
+      "lastModified" : 1778686042784
+    },
+    "linesOfCode" : 39
+  }, {
+    "path" : "config\\database.php",
+    "modificationInfo" : {
+      "contentHash" : 1452960252,
+      "lastModified" : 1778686042784
+    },
+    "linesOfCode" : 174
+  }, {
+    "path" : "config\\filesystems.php",
+    "modificationInfo" : {
+      "contentHash" : -6757471,
+      "lastModified" : 1778686042786
+    },
+    "linesOfCode" : 80
+  }, {
+    "path" : "config\\inertia.php",
+    "modificationInfo" : {
+      "contentHash" : -604491678,
+      "lastModified" : 1778686042788
+    },
+    "linesOfCode" : 55
+  }, {
+    "path" : "config\\logging.php",
+    "modificationInfo" : {
+      "contentHash" : 1637183091,
+      "lastModified" : 1778686042788
+    },
+    "linesOfCode" : 132
+  }, {
+    "path" : "config\\mail.php",
+    "modificationInfo" : {
+      "contentHash" : 446190416,
+      "lastModified" : 1778686042790
+    },
+    "linesOfCode" : 116
+  }, {
+    "path" : "config\\queue.php",
+    "modificationInfo" : {
+      "contentHash" : 122885377,
+      "lastModified" : 1778686042790
+    },
+    "linesOfCode" : 112
+  }, {
+    "path" : "config\\sanctum.php",
+    "modificationInfo" : {
+      "contentHash" : -504302238,
+      "lastModified" : 1778686042790
+    },
+    "linesOfCode" : 83
+  }, {
+    "path" : "config\\services.php",
+    "modificationInfo" : {
+      "contentHash" : 1822470958,
+      "lastModified" : 1778686042792
+    },
+    "linesOfCode" : 44
+  }, {
+    "path" : "config\\session.php",
+    "modificationInfo" : {
+      "contentHash" : 1414611572,
+      "lastModified" : 1778686042792
+    },
+    "linesOfCode" : 217
+  }, {
+    "path" : "database\\factories\\AccreditationTemplateFactory.php",
+    "modificationInfo" : {
+      "contentHash" : -293875997,
+      "lastModified" : 1778686042795
+    },
+    "linesOfCode" : 68
+  }, {
+    "path" : "database\\factories\\AgendaFactory.php",
+    "modificationInfo" : {
+      "contentHash" : -1268477265,
+      "lastModified" : 1778686042795
+    },
+    "linesOfCode" : 48
+  }, {
+    "path" : "database\\factories\\EssayQuestionFactory.php",
+    "modificationInfo" : {
+      "contentHash" : 1918416295,
+      "lastModified" : 1778686042797
+    },
+    "linesOfCode" : 50
+  }, {
+    "path" : "database\\factories\\EvaluationCategoryFactory.php",
+    "modificationInfo" : {
+      "contentHash" : 2009001683,
+      "lastModified" : 1778686042798
+    },
+    "linesOfCode" : 28
+  }, {
+    "path" : "database\\factories\\EvaluationIndicatorFactory.php",
+    "modificationInfo" : {
+      "contentHash" : 229671658,
+      "lastModified" : 1778686042798
+    },
+    "linesOfCode" : 46
+  }, {
+    "path" : "database\\factories\\EvaluationSubCategoryFactory.php",
+    "modificationInfo" : {
+      "contentHash" : 897938897,
+      "lastModified" : 1778686042799
+    },
+    "linesOfCode" : 27
+  }, {
+    "path" : "database\\factories\\JournalAssessmentFactory.php",
+    "modificationInfo" : {
+      "contentHash" : 946818715,
+      "lastModified" : 1778686042800
+    },
+    "linesOfCode" : 62
+  }, {
+    "path" : "database\\factories\\JournalFactory.php",
+    "modificationInfo" : {
+      "contentHash" : -801139647,
+      "lastModified" : 1778686042802
+    },
+    "linesOfCode" : 212
+  }, {
+    "path" : "database\\factories\\ScientificFieldFactory.php",
+    "modificationInfo" : {
+      "contentHash" : -1637679971,
+      "lastModified" : 1778686042802
+    },
+    "linesOfCode" : 85
+  }, {
+    "path" : "database\\factories\\UniversityFactory.php",
+    "modificationInfo" : {
+      "contentHash" : 1960626562,
+      "lastModified" : 1778686042803
+    },
+    "linesOfCode" : 33
+  }, {
+    "path" : "database\\factories\\UserFactory.php",
+    "modificationInfo" : {
+      "contentHash" : 1441094247,
+      "lastModified" : 1778686042803
+    },
+    "linesOfCode" : 94
+  }, {
+    "path" : "database\\migrations\\2025_11_06_035444_create_roles_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : -1238283135,
+      "lastModified" : 1778686042805
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "database\\migrations\\2025_11_06_035943_create_universities_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : -1045564022,
+      "lastModified" : 1778686042806
+    },
+    "linesOfCode" : 53
+  }, {
+    "path" : "database\\migrations\\2025_11_06_040933_create_scientific_fields_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : -936584770,
+      "lastModified" : 1778686042807
+    },
+    "linesOfCode" : 42
+  }, {
+    "path" : "database\\migrations\\2025_11_06_041216_create_users_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : -2055564455,
+      "lastModified" : 1778686042808
+    },
+    "linesOfCode" : 61
+  }, {
+    "path" : "database\\migrations\\2025_11_06_041549_create_evaluation_indicators_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : -897130712,
+      "lastModified" : 1778686042809
+    },
+    "linesOfCode" : 55
+  }, {
+    "path" : "database\\migrations\\2025_11_06_042056_create_journals_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : 683316622,
+      "lastModified" : 1778686042810
+    },
+    "linesOfCode" : 67
+  }, {
+    "path" : "database\\migrations\\2025_11_06_064216_create_journal_assessments_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : -569021625,
+      "lastModified" : 1778686042810
+    },
+    "linesOfCode" : 60
+  }, {
+    "path" : "database\\migrations\\2025_11_06_064514_create_assessment_responses_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : -631862023,
+      "lastModified" : 1778686042812
+    },
+    "linesOfCode" : 50
+  }, {
+    "path" : "database\\migrations\\2025_11_06_064703_create_assessment_attachments_table.php.php",
+    "modificationInfo" : {
+      "contentHash" : 318295581,
+      "lastModified" : 1778686042812
+    },
+    "linesOfCode" : 46
+  }, {
+    "path" : "database\\migrations\\2025_11_06_065205_create_personal_access_tokens_table.php",
+    "modificationInfo" : {
+      "contentHash" : 46241166,
+      "lastModified" : 1778686042812
+    },
+    "linesOfCode" : 33
+  }, {
+    "path" : "database\\migrations\\2025_12_31_055510_create_sessions_table.php",
+    "modificationInfo" : {
+      "contentHash" : -80471855,
+      "lastModified" : 1778686042814
+    },
+    "linesOfCode" : 31
+  }, {
+    "path" : "database\\migrations\\2025_12_31_055726_create_cache_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1513079548,
+      "lastModified" : 1778686042815
+    },
+    "linesOfCode" : 35
+  }, {
+    "path" : "database\\migrations\\2026_01_13_020456_create_password_reset_tokens_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1408445508,
+      "lastModified" : 1778686042816
+    },
+    "linesOfCode" : 28
+  }, {
+    "path" : "database\\migrations\\2026_01_22_054340_add_is_reviewer_to_users_table.php",
+    "modificationInfo" : {
+      "contentHash" : 461226538,
+      "lastModified" : 1778686042816
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "database\\migrations\\2026_01_22_082829_add_enhancement_fields_to_universities_table.php",
+    "modificationInfo" : {
+      "contentHash" : -977500707,
+      "lastModified" : 1778686042817
+    },
+    "linesOfCode" : 28
+  }, {
+    "path" : "database\\migrations\\2026_01_22_082901_add_enhancement_fields_to_universities_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1590331440,
+      "lastModified" : 1778686042818
+    },
+    "linesOfCode" : 43
+  }, {
+    "path" : "database\\migrations\\2026_01_22_100000_create_user_roles_pivot_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1467736027,
+      "lastModified" : 1778686042819
+    },
+    "linesOfCode" : 38
+  }, {
+    "path" : "database\\migrations\\2026_01_22_100001_migrate_existing_users_to_user_roles.php",
+    "modificationInfo" : {
+      "contentHash" : 724610693,
+      "lastModified" : 1778686042819
+    },
+    "linesOfCode" : 66
+  }, {
+    "path" : "database\\migrations\\2026_01_22_111939_add_scientific_field_id_to_users_table.php",
+    "modificationInfo" : {
+      "contentHash" : -993959623,
+      "lastModified" : 1778686042820
+    },
+    "linesOfCode" : 36
+  }, {
+    "path" : "database\\migrations\\2026_01_24_071908_add_indexation_and_dikti_fields_to_journals_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1780051689,
+      "lastModified" : 1778686042821
+    },
+    "linesOfCode" : 67
+  }, {
+    "path" : "database\\migrations\\2026_01_24_100000_create_accreditation_templates_table.php",
+    "modificationInfo" : {
+      "contentHash" : -662718135,
+      "lastModified" : 1778686042822
+    },
+    "linesOfCode" : 54
+  }, {
+    "path" : "database\\migrations\\2026_01_25_123934_create_pembinaan_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1200843624,
+      "lastModified" : 1778686042823
+    },
+    "linesOfCode" : 71
+  }, {
+    "path" : "database\\migrations\\2026_01_25_123946_create_pembinaan_registrations_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1248479010,
+      "lastModified" : 1778686042823
+    },
+    "linesOfCode" : 71
+  }, {
+    "path" : "database\\migrations\\2026_01_25_123956_create_pembinaan_registration_attachments_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1585844283,
+      "lastModified" : 1778686042823
+    },
+    "linesOfCode" : 57
+  }, {
+    "path" : "database\\migrations\\2026_01_25_124004_create_pembinaan_reviews_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1432244052,
+      "lastModified" : 1778686042823
+    },
+    "linesOfCode" : 60
+  }, {
+    "path" : "database\\migrations\\2026_01_25_124011_create_reviewer_assignments_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1039496693,
+      "lastModified" : 1778686042827
+    },
+    "linesOfCode" : 65
+  }, {
+    "path" : "database\\migrations\\2026_01_27_110000_create_evaluation_categories_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1691205942,
+      "lastModified" : 1778686042827
+    },
+    "linesOfCode" : 67
+  }, {
+    "path" : "database\\migrations\\2026_01_27_120000_create_evaluation_sub_categories_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1146655558,
+      "lastModified" : 1778686042827
+    },
+    "linesOfCode" : 62
+  }, {
+    "path" : "database\\migrations\\2026_01_27_130000_create_essay_questions_table.php",
+    "modificationInfo" : {
+      "contentHash" : -472787534,
+      "lastModified" : 1778686042827
+    },
+    "linesOfCode" : 73
+  }, {
+    "path" : "database\\migrations\\2026_01_27_140000_alter_evaluation_indicators_add_hierarchy.php",
+    "modificationInfo" : {
+      "contentHash" : 1347157675,
+      "lastModified" : 1778686042830
+    },
+    "linesOfCode" : 80
+  }, {
+    "path" : "database\\migrations\\2026_02_02_104518_create_assessment_issues_table.php",
+    "modificationInfo" : {
+      "contentHash" : 2119637844,
+      "lastModified" : 1778686042830
+    },
+    "linesOfCode" : 40
+  }, {
+    "path" : "database\\migrations\\2026_02_02_160919_add_pembinaan_registration_to_journal_assessments_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1815511519,
+      "lastModified" : 1778686042832
+    },
+    "linesOfCode" : 38
+  }, {
+    "path" : "database\\migrations\\2026_02_02_165652_add_admin_kampus_approval_to_journal_assessments_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1578363727,
+      "lastModified" : 1778686042832
+    },
+    "linesOfCode" : 40
+  }, {
+    "path" : "database\\migrations\\2026_02_02_170237_create_assessment_notes_table.php",
+    "modificationInfo" : {
+      "contentHash" : 828354156,
+      "lastModified" : 1778686042834
+    },
+    "linesOfCode" : 44
+  }, {
+    "path" : "database\\migrations\\2026_02_02_170241_add_review_status_to_pembinaan_registrations_table.php",
+    "modificationInfo" : {
+      "contentHash" : 439958449,
+      "lastModified" : 1778686042834
+    },
+    "linesOfCode" : 34
+  }, {
+    "path" : "database\\migrations\\2026_02_02_233341_add_assigned_by_to_journal_assessments_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1871512607,
+      "lastModified" : 1778686042836
+    },
+    "linesOfCode" : 34
+  }, {
+    "path" : "database\\migrations\\2026_02_02_233344_add_assigned_by_to_journal_assessments_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1779558003,
+      "lastModified" : 1778686042836
+    },
+    "linesOfCode" : 28
+  }, {
+    "path" : "database\\migrations\\2026_02_03_002813_create_notifications_table.php",
+    "modificationInfo" : {
+      "contentHash" : 577895945,
+      "lastModified" : 1778686042840
+    },
+    "linesOfCode" : 31
+  }, {
+    "path" : "database\\migrations\\2026_02_03_025738_add_journal_metadata_fields_to_assessments_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1013339175,
+      "lastModified" : 1778686042840
+    },
+    "linesOfCode" : 53
+  }, {
+    "path" : "database\\migrations\\2026_02_03_025813_create_assessment_journal_metadata_table.php",
+    "modificationInfo" : {
+      "contentHash" : -738796904,
+      "lastModified" : 1778686042842
+    },
+    "linesOfCode" : 66
+  }, {
+    "path" : "database\\migrations\\2026_02_04_040009_add_supporting_document_to_pembinaan_registrations_table.php",
+    "modificationInfo" : {
+      "contentHash" : -112136502,
+      "lastModified" : 1778686042843
+    },
+    "linesOfCode" : 29
+  }, {
+    "path" : "database\\migrations\\2026_02_05_090829_add_additional_fields_to_journals_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1545179439,
+      "lastModified" : 1778686042844
+    },
+    "linesOfCode" : 31
+  }, {
+    "path" : "database\\migrations\\2026_02_06_060553_add_oai_pmh_url_to_journals_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1908676952,
+      "lastModified" : 1778686042844
+    },
+    "linesOfCode" : 29
+  }, {
+    "path" : "database\\migrations\\2026_02_06_060557_create_articles_table.php",
+    "modificationInfo" : {
+      "contentHash" : -2143645916,
+      "lastModified" : 1778686042846
+    },
+    "linesOfCode" : 62
+  }, {
+    "path" : "database\\migrations\\2026_02_06_060608_create_oai_harvesting_logs_table.php",
+    "modificationInfo" : {
+      "contentHash" : 332272045,
+      "lastModified" : 1778686042846
+    },
+    "linesOfCode" : 43
+  }, {
+    "path" : "database\\migrations\\2026_02_08_200000_add_approval_fields_to_users_table.php",
+    "modificationInfo" : {
+      "contentHash" : -2115599765,
+      "lastModified" : 1778686042847
+    },
+    "linesOfCode" : 79
+  }, {
+    "path" : "database\\migrations\\2026_02_08_200100_add_approval_fields_to_journals_table.php",
+    "modificationInfo" : {
+      "contentHash" : -2068333593,
+      "lastModified" : 1778686042847
+    },
+    "linesOfCode" : 79
+  }, {
+    "path" : "database\\migrations\\2026_02_08_200200_create_journal_reassignments_table.php",
+    "modificationInfo" : {
+      "contentHash" : 647560486,
+      "lastModified" : 1778686042850
+    },
+    "linesOfCode" : 76
+  }, {
+    "path" : "database\\migrations\\2026_02_10_000000_make_role_id_nullable_for_lppm_registration.php",
+    "modificationInfo" : {
+      "contentHash" : -390039747,
+      "lastModified" : 1778686042850
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "database\\migrations\\2026_02_11_235000_simplify_accreditation_fields.php",
+    "modificationInfo" : {
+      "contentHash" : -610543169,
+      "lastModified" : 1778686042852
+    },
+    "linesOfCode" : 125
+  }, {
+    "path" : "database\\migrations\\2026_02_19_000001_create_failed_jobs_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1519589122,
+      "lastModified" : 1778686042852
+    },
+    "linesOfCode" : 35
+  }, {
+    "path" : "database\\migrations\\2026_02_26_000001_fix_journal_schema.php",
+    "modificationInfo" : {
+      "contentHash" : 2034074806,
+      "lastModified" : 1778686042854
+    },
+    "linesOfCode" : 51
+  }, {
+    "path" : "database\\migrations\\2026_03_02_000001_create_jobs_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1517384940,
+      "lastModified" : 1778686042855
+    },
+    "linesOfCode" : 50
+  }, {
+    "path" : "database\\migrations\\2026_03_02_090550_create_jobs_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1042174973,
+      "lastModified" : 1778686042855
+    },
+    "linesOfCode" : 34
+  }, {
+    "path" : "database\\migrations\\2026_03_26_110615_change_oai_pmh_url_to_oai_urls_on_journals_table.php",
+    "modificationInfo" : {
+      "contentHash" : -2069152508,
+      "lastModified" : 1778686042855
+    },
+    "linesOfCode" : 66
+  }, {
+    "path" : "database\\migrations\\2026_03_31_114121_add_multidisciplinary_to_scientific_fields.php",
+    "modificationInfo" : {
+      "contentHash" : 985570657,
+      "lastModified" : 1778686042855
+    },
+    "linesOfCode" : 33
+  }, {
+    "path" : "database\\migrations\\2026_04_10_195754_create_agendas_table.php",
+    "modificationInfo" : {
+      "contentHash" : 742419708,
+      "lastModified" : 1778686042855
+    },
+    "linesOfCode" : 56
+  }, {
+    "path" : "database\\migrations\\2026_04_11_101542_add_quota_to_agendas_table.php",
+    "modificationInfo" : {
+      "contentHash" : -1759555006,
+      "lastModified" : 1778686042860
+    },
+    "linesOfCode" : 28
+  }, {
+    "path" : "database\\migrations\\2026_04_11_101556_create_agenda_registrations_table.php",
+    "modificationInfo" : {
+      "contentHash" : 1153801475,
+      "lastModified" : 1778686042860
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "database\\seeders\\AccreditationTemplateSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : 301990713,
+      "lastModified" : 1778686042860
+    },
+    "linesOfCode" : 63
+  }, {
+    "path" : "database\\seeders\\AssessmentSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : 208623600,
+      "lastModified" : 1778686042864
+    },
+    "linesOfCode" : 348
+  }, {
+    "path" : "database\\seeders\\DataMigrationSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -1945800099,
+      "lastModified" : 1778686042865
+    },
+    "linesOfCode" : 204
+  }, {
+    "path" : "database\\seeders\\DatabaseSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -467587253,
+      "lastModified" : 1778686042865
+    },
+    "linesOfCode" : 43
+  }, {
+    "path" : "database\\seeders\\EssayQuestionSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -402984748,
+      "lastModified" : 1778686042865
+    },
+    "linesOfCode" : 194
+  }, {
+    "path" : "database\\seeders\\EvaluationIndicatorSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -1668846950,
+      "lastModified" : 1778686042868
+    },
+    "linesOfCode" : 206
+  }, {
+    "path" : "database\\seeders\\JournalSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : 886785749,
+      "lastModified" : 1778686042868
+    },
+    "linesOfCode" : 217
+  }, {
+    "path" : "database\\seeders\\OAIPMHTestSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -2092429370,
+      "lastModified" : 1778686042870
+    },
+    "linesOfCode" : 51
+  }, {
+    "path" : "database\\seeders\\PembinaanSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -221349630,
+      "lastModified" : 1778686042870
+    },
+    "linesOfCode" : 479
+  }, {
+    "path" : "database\\seeders\\PresentationDemoSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -1511880288,
+      "lastModified" : 1778686042872
+    },
+    "linesOfCode" : 147
+  }, {
+    "path" : "database\\seeders\\RoleSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : -1958076494,
+      "lastModified" : 1778686042872
+    },
+    "linesOfCode" : 52
+  }, {
+    "path" : "database\\seeders\\ScientificFieldSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : 629625314,
+      "lastModified" : 1778686042874
+    },
+    "linesOfCode" : 125
+  }, {
+    "path" : "database\\seeders\\UniversitySeeder.php",
+    "modificationInfo" : {
+      "contentHash" : 772297760,
+      "lastModified" : 1778686042874
+    },
+    "linesOfCode" : 125
+  }, {
+    "path" : "database\\seeders\\UserSeeder.php",
+    "modificationInfo" : {
+      "contentHash" : 2077221428,
+      "lastModified" : 1778686042876
+    },
+    "linesOfCode" : 298
+  }, {
+    "path" : "eslint.config.js",
+    "modificationInfo" : {
+      "contentHash" : -101769492,
+      "lastModified" : 1778686042959
+    },
+    "linesOfCode" : 46
+  }, {
+    "path" : "index.php",
+    "modificationInfo" : {
+      "contentHash" : 1898856580,
+      "lastModified" : 1778686042961
+    },
+    "linesOfCode" : 20
+  }, {
+    "path" : "resources\\js\\app.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1659223160,
+      "lastModified" : 1778686042977
+    },
+    "linesOfCode" : 24
+  }, {
+    "path" : "resources\\js\\components\\Admin\\Templates\\CategoryFormModal.tsx",
+    "modificationInfo" : {
+      "contentHash" : -749221535,
+      "lastModified" : 1778686042977
+    },
+    "linesOfCode" : 156
+  }, {
+    "path" : "resources\\js\\components\\Admin\\Templates\\EssayQuestionFormModal.tsx",
+    "modificationInfo" : {
+      "contentHash" : -213755497,
+      "lastModified" : 1778686042982
+    },
+    "linesOfCode" : 175
+  }, {
+    "path" : "resources\\js\\components\\Admin\\Templates\\IndicatorFormModal.tsx",
+    "modificationInfo" : {
+      "contentHash" : -76861379,
+      "lastModified" : 1778686042983
+    },
+    "linesOfCode" : 200
+  }, {
+    "path" : "resources\\js\\components\\Admin\\Templates\\SubCategoryFormModal.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1870028313,
+      "lastModified" : 1778686042984
+    },
+    "linesOfCode" : 137
+  }, {
+    "path" : "resources\\js\\components\\Admin\\Templates\\TemplateFormModal.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1988346741,
+      "lastModified" : 1778686042984
+    },
+    "linesOfCode" : 155
+  }, {
+    "path" : "resources\\js\\components\\Admin\\Templates\\TreeItems.tsx",
+    "modificationInfo" : {
+      "contentHash" : 766595987,
+      "lastModified" : 1778686042984
+    },
+    "linesOfCode" : 243
+  }, {
+    "path" : "resources\\js\\components\\AssessmentIssueManager.tsx",
+    "modificationInfo" : {
+      "contentHash" : 98553062,
+      "lastModified" : 1778686042984
+    },
+    "linesOfCode" : 172
+  }, {
+    "path" : "resources\\js\\components\\AssessmentNotesTimeline.tsx",
+    "modificationInfo" : {
+      "contentHash" : -88850609,
+      "lastModified" : 1778686042988
+    },
+    "linesOfCode" : 125
+  }, {
+    "path" : "resources\\js\\components\\FlashToast.tsx",
+    "modificationInfo" : {
+      "contentHash" : 309220193,
+      "lastModified" : 1778686042988
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "resources\\js\\components\\IssueCard.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1905365199,
+      "lastModified" : 1778686042988
+    },
+    "linesOfCode" : 112
+  }, {
+    "path" : "resources\\js\\components\\IssueFormDialog.tsx",
+    "modificationInfo" : {
+      "contentHash" : -916156422,
+      "lastModified" : 1778686042988
+    },
+    "linesOfCode" : 201
+  }, {
+    "path" : "resources\\js\\components\\JournalCoverUpload.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1767520751,
+      "lastModified" : 1778686042991
+    },
+    "linesOfCode" : 168
+  }, {
+    "path" : "resources\\js\\components\\JournalForm.tsx",
+    "modificationInfo" : {
+      "contentHash" : -410986136,
+      "lastModified" : 1778686042993
+    },
+    "linesOfCode" : 593
+  }, {
+    "path" : "resources\\js\\components\\JournalMetadataCard.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1208984836,
+      "lastModified" : 1778686042993
+    },
+    "linesOfCode" : 116
+  }, {
+    "path" : "resources\\js\\components\\JournalMetadataFormDialog.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1057084990,
+      "lastModified" : 1778686042993
+    },
+    "linesOfCode" : 392
+  }, {
+    "path" : "resources\\js\\components\\JournalMetadataManager.tsx",
+    "modificationInfo" : {
+      "contentHash" : 935178713,
+      "lastModified" : 1778686042993
+    },
+    "linesOfCode" : 192
+  }, {
+    "path" : "resources\\js\\components\\ReviewerFeedback.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1017722851,
+      "lastModified" : 1778686042993
+    },
+    "linesOfCode" : 66
+  }, {
+    "path" : "resources\\js\\components\\StatisticsDashboard.tsx",
+    "modificationInfo" : {
+      "contentHash" : 774924592,
+      "lastModified" : 1778686042993
+    },
+    "linesOfCode" : 491
+  }, {
+    "path" : "resources\\js\\components\\StatusTimeline.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1580389991,
+      "lastModified" : 1778686042998
+    },
+    "linesOfCode" : 133
+  }, {
+    "path" : "resources\\js\\components\\__tests__\\StatisticsDashboard.test.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1537798682,
+      "lastModified" : 1778686042998
+    },
+    "linesOfCode" : 386
+  }, {
+    "path" : "resources\\js\\components\\app-content.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1705271648,
+      "lastModified" : 1778686042998
+    },
+    "linesOfCode" : 18
+  }, {
+    "path" : "resources\\js\\components\\app-header.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1021773841,
+      "lastModified" : 1778686043001
+    },
+    "linesOfCode" : 182
+  }, {
+    "path" : "resources\\js\\components\\app-logo-icon.tsx",
+    "modificationInfo" : {
+      "contentHash" : -543213248,
+      "lastModified" : 1778686043001
+    },
+    "linesOfCode" : 13
+  }, {
+    "path" : "resources\\js\\components\\app-logo.tsx",
+    "modificationInfo" : {
+      "contentHash" : -576577264,
+      "lastModified" : 1778686043001
+    },
+    "linesOfCode" : 14
+  }, {
+    "path" : "resources\\js\\components\\app-shell.tsx",
+    "modificationInfo" : {
+      "contentHash" : -215558689,
+      "lastModified" : 1778686043001
+    },
+    "linesOfCode" : 18
+  }, {
+    "path" : "resources\\js\\components\\app-sidebar-header.tsx",
+    "modificationInfo" : {
+      "contentHash" : -555524163,
+      "lastModified" : 1778686043001
+    },
+    "linesOfCode" : 14
+  }, {
+    "path" : "resources\\js\\components\\app-sidebar.tsx",
+    "modificationInfo" : {
+      "contentHash" : 542395036,
+      "lastModified" : 1778686043006
+    },
+    "linesOfCode" : 183
+  }, {
+    "path" : "resources\\js\\components\\appearance-dropdown.tsx",
+    "modificationInfo" : {
+      "contentHash" : 154473573,
+      "lastModified" : 1778686043007
+    },
+    "linesOfCode" : 53
+  }, {
+    "path" : "resources\\js\\components\\appearance-tabs.tsx",
+    "modificationInfo" : {
+      "contentHash" : -578052539,
+      "lastModified" : 1778686043008
+    },
+    "linesOfCode" : 34
+  }, {
+    "path" : "resources\\js\\components\\badges\\AccreditationBadge.tsx",
+    "modificationInfo" : {
+      "contentHash" : 844318596,
+      "lastModified" : 1778686043009
+    },
+    "linesOfCode" : 45
+  }, {
+    "path" : "resources\\js\\components\\badges\\IndexationBadge.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1888453831,
+      "lastModified" : 1778686043009
+    },
+    "linesOfCode" : 57
+  }, {
+    "path" : "resources\\js\\components\\badges\\SintaBadge.tsx",
+    "modificationInfo" : {
+      "contentHash" : 408217686,
+      "lastModified" : 1778686043009
+    },
+    "linesOfCode" : 51
+  }, {
+    "path" : "resources\\js\\components\\badges\\index.ts",
+    "modificationInfo" : {
+      "contentHash" : 1621444981,
+      "lastModified" : 1778686043009
+    },
+    "linesOfCode" : 4
+  }, {
+    "path" : "resources\\js\\components\\breadcrumbs.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2041028246,
+      "lastModified" : 1778686043009
+    },
+    "linesOfCode" : 34
+  }, {
+    "path" : "resources\\js\\components\\delete-user.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2031801162,
+      "lastModified" : 1778686043012
+    },
+    "linesOfCode" : 89
+  }, {
+    "path" : "resources\\js\\components\\heading-small.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1593789088,
+      "lastModified" : 1778686043012
+    },
+    "linesOfCode" : 8
+  }, {
+    "path" : "resources\\js\\components\\heading.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1991930359,
+      "lastModified" : 1778686043012
+    },
+    "linesOfCode" : 8
+  }, {
+    "path" : "resources\\js\\components\\icon.tsx",
+    "modificationInfo" : {
+      "contentHash" : 184702116,
+      "lastModified" : 1778686043012
+    },
+    "linesOfCode" : 11
+  }, {
+    "path" : "resources\\js\\components\\input-error.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1852708843,
+      "lastModified" : 1778686043012
+    },
+    "linesOfCode" : 10
+  }, {
+    "path" : "resources\\js\\components\\journal-card.tsx",
+    "modificationInfo" : {
+      "contentHash" : -102919628,
+      "lastModified" : 1778686043018
+    },
+    "linesOfCode" : 99
+  }, {
+    "path" : "resources\\js\\components\\multi-role-select.tsx",
+    "modificationInfo" : {
+      "contentHash" : 283248215,
+      "lastModified" : 1778686043018
+    },
+    "linesOfCode" : 100
+  }, {
+    "path" : "resources\\js\\components\\nav-footer.tsx",
+    "modificationInfo" : {
+      "contentHash" : -994473943,
+      "lastModified" : 1778686043020
+    },
+    "linesOfCode" : 34
+  }, {
+    "path" : "resources\\js\\components\\nav-main.tsx",
+    "modificationInfo" : {
+      "contentHash" : 594818168,
+      "lastModified" : 1778686043020
+    },
+    "linesOfCode" : 66
+  }, {
+    "path" : "resources\\js\\components\\nav-user.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1748895934,
+      "lastModified" : 1778686043020
+    },
+    "linesOfCode" : 36
+  }, {
+    "path" : "resources\\js\\components\\profile\\ActivityItem.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1819469769,
+      "lastModified" : 1778686043020
+    },
+    "linesOfCode" : 90
+  }, {
+    "path" : "resources\\js\\components\\profile\\NotificationCard.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1102455,
+      "lastModified" : 1778686043020
+    },
+    "linesOfCode" : 100
+  }, {
+    "path" : "resources\\js\\components\\profile\\ProfileCard.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1240252834,
+      "lastModified" : 1778686043020
+    },
+    "linesOfCode" : 102
+  }, {
+    "path" : "resources\\js\\components\\profile\\StatCard.tsx",
+    "modificationInfo" : {
+      "contentHash" : 289863584,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 74
+  }, {
+    "path" : "resources\\js\\components\\profile\\__tests__\\ProfileCard.test.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2123075004,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 182
+  }, {
+    "path" : "resources\\js\\components\\text-link.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1632962653,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 19
+  }, {
+    "path" : "resources\\js\\components\\ui\\accordion.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1766811743,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 56
+  }, {
+    "path" : "resources\\js\\components\\ui\\alert-dialog.tsx",
+    "modificationInfo" : {
+      "contentHash" : -725668361,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 139
+  }, {
+    "path" : "resources\\js\\components\\ui\\alert.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1958258867,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 66
+  }, {
+    "path" : "resources\\js\\components\\ui\\avatar.tsx",
+    "modificationInfo" : {
+      "contentHash" : 457491093,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 51
+  }, {
+    "path" : "resources\\js\\components\\ui\\badge.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2095225146,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 46
+  }, {
+    "path" : "resources\\js\\components\\ui\\breadcrumb.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1848130849,
+      "lastModified" : 1778686043025
+    },
+    "linesOfCode" : 109
+  }, {
+    "path" : "resources\\js\\components\\ui\\button.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1256690954,
+      "lastModified" : 1778686043033
+    },
+    "linesOfCode" : 57
+  }, {
+    "path" : "resources\\js\\components\\ui\\calendar.tsx",
+    "modificationInfo" : {
+      "contentHash" : 293876035,
+      "lastModified" : 1778686043034
+    },
+    "linesOfCode" : 211
+  }, {
+    "path" : "resources\\js\\components\\ui\\card.tsx",
+    "modificationInfo" : {
+      "contentHash" : 453720111,
+      "lastModified" : 1778686043034
+    },
+    "linesOfCode" : 68
+  }, {
+    "path" : "resources\\js\\components\\ui\\checkbox.tsx",
+    "modificationInfo" : {
+      "contentHash" : 112808154,
+      "lastModified" : 1778686043036
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "resources\\js\\components\\ui\\collapsible.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1669265268,
+      "lastModified" : 1778686043036
+    },
+    "linesOfCode" : 9
+  }, {
+    "path" : "resources\\js\\components\\ui\\command.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2044110896,
+      "lastModified" : 1778686043036
+    },
+    "linesOfCode" : 151
+  }, {
+    "path" : "resources\\js\\components\\ui\\dialog.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1701027769,
+      "lastModified" : 1778686043036
+    },
+    "linesOfCode" : 120
+  }, {
+    "path" : "resources\\js\\components\\ui\\dropdown-menu.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1622895260,
+      "lastModified" : 1778686043036
+    },
+    "linesOfCode" : 255
+  }, {
+    "path" : "resources\\js\\components\\ui\\icon.tsx",
+    "modificationInfo" : {
+      "contentHash" : -810966105,
+      "lastModified" : 1778686043036
+    },
+    "linesOfCode" : 14
+  }, {
+    "path" : "resources\\js\\components\\ui\\input-group.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1786931908,
+      "lastModified" : 1778686043036
+    },
+    "linesOfCode" : 168
+  }, {
+    "path" : "resources\\js\\components\\ui\\input.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2085832735,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 22
+  }, {
+    "path" : "resources\\js\\components\\ui\\label.tsx",
+    "modificationInfo" : {
+      "contentHash" : -965705821,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 22
+  }, {
+    "path" : "resources\\js\\components\\ui\\navigation-menu.tsx",
+    "modificationInfo" : {
+      "contentHash" : -21246492,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 168
+  }, {
+    "path" : "resources\\js\\components\\ui\\pagination.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1672197682,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 117
+  }, {
+    "path" : "resources\\js\\components\\ui\\placeholder-pattern.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2105967098,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 20
+  }, {
+    "path" : "resources\\js\\components\\ui\\popover.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2033761484,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 29
+  }, {
+    "path" : "resources\\js\\components\\ui\\progress.tsx",
+    "modificationInfo" : {
+      "contentHash" : -65253685,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 26
+  }, {
+    "path" : "resources\\js\\components\\ui\\radio-group.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1414100370,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 42
+  }, {
+    "path" : "resources\\js\\components\\ui\\select.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1477588352,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 158
+  }, {
+    "path" : "resources\\js\\components\\ui\\separator.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2131602511,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 26
+  }, {
+    "path" : "resources\\js\\components\\ui\\sheet.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1913331050,
+      "lastModified" : 1778686043041
+    },
+    "linesOfCode" : 137
+  }, {
+    "path" : "resources\\js\\components\\ui\\sidebar.tsx",
+    "modificationInfo" : {
+      "contentHash" : -199284029,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 721
+  }, {
+    "path" : "resources\\js\\components\\ui\\skeleton.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1756112362,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 13
+  }, {
+    "path" : "resources\\js\\components\\ui\\slider.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1449764490,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 26
+  }, {
+    "path" : "resources\\js\\components\\ui\\sonner.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1349836757,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 43
+  }, {
+    "path" : "resources\\js\\components\\ui\\switch.tsx",
+    "modificationInfo" : {
+      "contentHash" : -538944309,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 27
+  }, {
+    "path" : "resources\\js\\components\\ui\\table.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2141780407,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 117
+  }, {
+    "path" : "resources\\js\\components\\ui\\tabs.tsx",
+    "modificationInfo" : {
+      "contentHash" : 124556033,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 53
+  }, {
+    "path" : "resources\\js\\components\\ui\\textarea.tsx",
+    "modificationInfo" : {
+      "contentHash" : -415720437,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 22
+  }, {
+    "path" : "resources\\js\\components\\ui\\toggle-group.tsx",
+    "modificationInfo" : {
+      "contentHash" : -316195748,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 71
+  }, {
+    "path" : "resources\\js\\components\\ui\\toggle.tsx",
+    "modificationInfo" : {
+      "contentHash" : -809232692,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 45
+  }, {
+    "path" : "resources\\js\\components\\ui\\tooltip.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1131666649,
+      "lastModified" : 1778686043049
+    },
+    "linesOfCode" : 59
+  }, {
+    "path" : "resources\\js\\components\\ui\\university-combobox.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1262836004,
+      "lastModified" : 1778686043058
+    },
+    "linesOfCode" : 131
+  }, {
+    "path" : "resources\\js\\components\\ui\\university-filter-combobox.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1122964458,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 107
+  }, {
+    "path" : "resources\\js\\components\\under-construction.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1609772454,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 106
+  }, {
+    "path" : "resources\\js\\components\\user-info.tsx",
+    "modificationInfo" : {
+      "contentHash" : 21359097,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 22
+  }, {
+    "path" : "resources\\js\\components\\user-menu-content.tsx",
+    "modificationInfo" : {
+      "contentHash" : -695988469,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 45
+  }, {
+    "path" : "resources\\js\\constants\\roles.ts",
+    "modificationInfo" : {
+      "contentHash" : 1453693035,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 15
+  }, {
+    "path" : "resources\\js\\hooks\\use-appearance.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1151739314,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 73
+  }, {
+    "path" : "resources\\js\\hooks\\use-initials.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1659320955,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 15
+  }, {
+    "path" : "resources\\js\\hooks\\use-mobile-navigation.ts",
+    "modificationInfo" : {
+      "contentHash" : -617083289,
+      "lastModified" : 1778686043059
+    },
+    "linesOfCode" : 8
+  }, {
+    "path" : "resources\\js\\hooks\\use-mobile.tsx",
+    "modificationInfo" : {
+      "contentHash" : 577533712,
+      "lastModified" : 1778686043065
+    },
+    "linesOfCode" : 22
+  }, {
+    "path" : "resources\\js\\layouts\\app-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1768958475,
+      "lastModified" : 1778686043067
+    },
+    "linesOfCode" : 18
+  }, {
+    "path" : "resources\\js\\layouts\\app\\app-header-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : 800477393,
+      "lastModified" : 1778686043068
+    },
+    "linesOfCode" : 14
+  }, {
+    "path" : "resources\\js\\layouts\\app\\app-sidebar-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1551860345,
+      "lastModified" : 1778686043068
+    },
+    "linesOfCode" : 18
+  }, {
+    "path" : "resources\\js\\layouts\\auth-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : 330989154,
+      "lastModified" : 1778686043068
+    },
+    "linesOfCode" : 9
+  }, {
+    "path" : "resources\\js\\layouts\\auth\\auth-card-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : 64337163,
+      "lastModified" : 1778686043071
+    },
+    "linesOfCode" : 36
+  }, {
+    "path" : "resources\\js\\layouts\\auth\\auth-simple-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2044916396,
+      "lastModified" : 1778686043071
+    },
+    "linesOfCode" : 47
+  }, {
+    "path" : "resources\\js\\layouts\\auth\\auth-split-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : -902709966,
+      "lastModified" : 1778686043071
+    },
+    "linesOfCode" : 45
+  }, {
+    "path" : "resources\\js\\layouts\\public-layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1800851536,
+      "lastModified" : 1778686043073
+    },
+    "linesOfCode" : 89
+  }, {
+    "path" : "resources\\js\\layouts\\settings\\layout.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1470741435,
+      "lastModified" : 1778686043076
+    },
+    "linesOfCode" : 68
+  }, {
+    "path" : "resources\\js\\lib\\utils.ts",
+    "modificationInfo" : {
+      "contentHash" : 627715354,
+      "lastModified" : 1778686043076
+    },
+    "linesOfCode" : 6
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Assessments\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1217833445,
+      "lastModified" : 1778686043109
+    },
+    "linesOfCode" : 424
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Assessments\\Review.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1546531274,
+      "lastModified" : 1778686043109
+    },
+    "linesOfCode" : 272
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Assessments\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 291324831,
+      "lastModified" : 1778686043115
+    },
+    "linesOfCode" : 287
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Events\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2119562759,
+      "lastModified" : 1778686043118
+    },
+    "linesOfCode" : 292
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Events\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1342298654,
+      "lastModified" : 1778686043118
+    },
+    "linesOfCode" : 331
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Events\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2041132798,
+      "lastModified" : 1778686043118
+    },
+    "linesOfCode" : 283
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Journals\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : -806213074,
+      "lastModified" : 1778686043118
+    },
+    "linesOfCode" : 77
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Journals\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1075480265,
+      "lastModified" : 1778686043118
+    },
+    "linesOfCode" : 127
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Journals\\Import.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1188949111,
+      "lastModified" : 1778686043118
+    },
+    "linesOfCode" : 366
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Journals\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -2133591254,
+      "lastModified" : 1778686043123
+    },
+    "linesOfCode" : 1048
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Journals\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1594654468,
+      "lastModified" : 1778686043123
+    },
+    "linesOfCode" : 861
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Pembinaan\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 410039320,
+      "lastModified" : 1778686043123
+    },
+    "linesOfCode" : 320
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Pembinaan\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1265602924,
+      "lastModified" : 1778686043128
+    },
+    "linesOfCode" : 591
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Reviewer\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1752954008,
+      "lastModified" : 1778686043129
+    },
+    "linesOfCode" : 32
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Users\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2052048732,
+      "lastModified" : 1778686043131
+    },
+    "linesOfCode" : 315
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Users\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : -983418066,
+      "lastModified" : 1778686043132
+    },
+    "linesOfCode" : 352
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Users\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -916635295,
+      "lastModified" : 1778686043132
+    },
+    "linesOfCode" : 988
+  }, {
+    "path" : "resources\\js\\pages\\AdminKampus\\Users\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1884106528,
+      "lastModified" : 1778686043134
+    },
+    "linesOfCode" : 318
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\AdminKampus\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : -825050649,
+      "lastModified" : 1778686043076
+    },
+    "linesOfCode" : 325
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\AdminKampus\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1429043293,
+      "lastModified" : 1778686043076
+    },
+    "linesOfCode" : 342
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\AdminKampus\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 823352685,
+      "lastModified" : 1778686043082
+    },
+    "linesOfCode" : 989
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\AdminKampus\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1454691459,
+      "lastModified" : 1778686043082
+    },
+    "linesOfCode" : 356
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Assessments\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1713472072,
+      "lastModified" : 1778686043084
+    },
+    "linesOfCode" : 37
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\BorangIndikator\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -608139628,
+      "lastModified" : 1778686043087
+    },
+    "linesOfCode" : 575
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\BorangIndikator\\List.tsx",
+    "modificationInfo" : {
+      "contentHash" : 307670501,
+      "lastModified" : 1778686043087
+    },
+    "linesOfCode" : 766
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\BorangIndikator\\Tree.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1214351675,
+      "lastModified" : 1778686043090
+    },
+    "linesOfCode" : 482
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\DataMaster\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 492587884,
+      "lastModified" : 1778686043090
+    },
+    "linesOfCode" : 32
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Journals\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -368316963,
+      "lastModified" : 1778686043093
+    },
+    "linesOfCode" : 564
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Journals\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1927869976,
+      "lastModified" : 1778686043095
+    },
+    "linesOfCode" : 811
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Pembinaan\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1847335515,
+      "lastModified" : 1778686043095
+    },
+    "linesOfCode" : 308
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Pembinaan\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1342536392,
+      "lastModified" : 1778686043095
+    },
+    "linesOfCode" : 349
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Pembinaan\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 413875032,
+      "lastModified" : 1778686043099
+    },
+    "linesOfCode" : 475
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Pembinaan\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 995105147,
+      "lastModified" : 1778686043099
+    },
+    "linesOfCode" : 521
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Reviewers\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -949864643,
+      "lastModified" : 1778686043099
+    },
+    "linesOfCode" : 175
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Universities\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : -531424187,
+      "lastModified" : 1778686043099
+    },
+    "linesOfCode" : 373
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Universities\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1596470382,
+      "lastModified" : 1778686043099
+    },
+    "linesOfCode" : 415
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Universities\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1866641619,
+      "lastModified" : 1778686043099
+    },
+    "linesOfCode" : 590
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Universities\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1092445347,
+      "lastModified" : 1778686043107
+    },
+    "linesOfCode" : 476
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Users\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1831409923,
+      "lastModified" : 1778686043107
+    },
+    "linesOfCode" : 343
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Users\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1761081320,
+      "lastModified" : 1778686043109
+    },
+    "linesOfCode" : 413
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Users\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -737577690,
+      "lastModified" : 1778686043109
+    },
+    "linesOfCode" : 661
+  }, {
+    "path" : "resources\\js\\pages\\Admin\\Users\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1544709701,
+      "lastModified" : 1778686043109
+    },
+    "linesOfCode" : 406
+  }, {
+    "path" : "resources\\js\\pages\\Browse\\Universities.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1711928823,
+      "lastModified" : 1778686043136
+    },
+    "linesOfCode" : 293
+  }, {
+    "path" : "resources\\js\\pages\\Dikti\\Assessments\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1596796538,
+      "lastModified" : 1778686043138
+    },
+    "linesOfCode" : 337
+  }, {
+    "path" : "resources\\js\\pages\\Dikti\\Assessments\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1973000068,
+      "lastModified" : 1778686043138
+    },
+    "linesOfCode" : 288
+  }, {
+    "path" : "resources\\js\\pages\\Errors\\403.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1533205808,
+      "lastModified" : 1778686043140
+    },
+    "linesOfCode" : 47
+  }, {
+    "path" : "resources\\js\\pages\\Journals\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -935704864,
+      "lastModified" : 1778686043140
+    },
+    "linesOfCode" : 486
+  }, {
+    "path" : "resources\\js\\pages\\Journals\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 870005108,
+      "lastModified" : 1778686043140
+    },
+    "linesOfCode" : 829
+  }, {
+    "path" : "resources\\js\\pages\\Public\\Events\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -290549785,
+      "lastModified" : 1778686043140
+    },
+    "linesOfCode" : 293
+  }, {
+    "path" : "resources\\js\\pages\\Public\\Events\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1401472704,
+      "lastModified" : 1778686043140
+    },
+    "linesOfCode" : 287
+  }, {
+    "path" : "resources\\js\\pages\\Resources.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1475342780,
+      "lastModified" : 1778686043147
+    },
+    "linesOfCode" : 32
+  }, {
+    "path" : "resources\\js\\pages\\Support.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1936923582,
+      "lastModified" : 1778686043147
+    },
+    "linesOfCode" : 32
+  }, {
+    "path" : "resources\\js\\pages\\User\\Assessments\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1399832768,
+      "lastModified" : 1778686043148
+    },
+    "linesOfCode" : 624
+  }, {
+    "path" : "resources\\js\\pages\\User\\Assessments\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : 400624259,
+      "lastModified" : 1778686043148
+    },
+    "linesOfCode" : 7
+  }, {
+    "path" : "resources\\js\\pages\\User\\Assessments\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 296263258,
+      "lastModified" : 1778686043148
+    },
+    "linesOfCode" : 346
+  }, {
+    "path" : "resources\\js\\pages\\User\\Assessments\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : -646602047,
+      "lastModified" : 1778686043148
+    },
+    "linesOfCode" : 467
+  }, {
+    "path" : "resources\\js\\pages\\User\\Journals\\Create.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1841580701,
+      "lastModified" : 1778686043148
+    },
+    "linesOfCode" : 68
+  }, {
+    "path" : "resources\\js\\pages\\User\\Journals\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1378830682,
+      "lastModified" : 1778686043148
+    },
+    "linesOfCode" : 124
+  }, {
+    "path" : "resources\\js\\pages\\User\\Journals\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2062805306,
+      "lastModified" : 1778686043157
+    },
+    "linesOfCode" : 599
+  }, {
+    "path" : "resources\\js\\pages\\User\\Journals\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1819074222,
+      "lastModified" : 1778686043157
+    },
+    "linesOfCode" : 938
+  }, {
+    "path" : "resources\\js\\pages\\User\\Pembinaan\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1151610891,
+      "lastModified" : 1778686043158
+    },
+    "linesOfCode" : 346
+  }, {
+    "path" : "resources\\js\\pages\\User\\Pembinaan\\Register.tsx",
+    "modificationInfo" : {
+      "contentHash" : -544399285,
+      "lastModified" : 1778686043158
+    },
+    "linesOfCode" : 580
+  }, {
+    "path" : "resources\\js\\pages\\User\\Pembinaan\\Registration.tsx",
+    "modificationInfo" : {
+      "contentHash" : -172662279,
+      "lastModified" : 1778686043158
+    },
+    "linesOfCode" : 615
+  }, {
+    "path" : "resources\\js\\pages\\User\\Pembinaan\\Show.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1726777169,
+      "lastModified" : 1778686043158
+    },
+    "linesOfCode" : 398
+  }, {
+    "path" : "resources\\js\\pages\\User\\Profil\\Edit.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1755769108,
+      "lastModified" : 1778686043158
+    },
+    "linesOfCode" : 218
+  }, {
+    "path" : "resources\\js\\pages\\User\\Profil\\Index.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1404069484,
+      "lastModified" : 1778686043165
+    },
+    "linesOfCode" : 395
+  }, {
+    "path" : "resources\\js\\pages\\auth\\confirm-password.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1375640838,
+      "lastModified" : 1778686043167
+    },
+    "linesOfCode" : 60
+  }, {
+    "path" : "resources\\js\\pages\\auth\\forgot-password.tsx",
+    "modificationInfo" : {
+      "contentHash" : 394057031,
+      "lastModified" : 1778686043167
+    },
+    "linesOfCode" : 63
+  }, {
+    "path" : "resources\\js\\pages\\auth\\googleCallback.tsx",
+    "modificationInfo" : {
+      "contentHash" : 0,
+      "lastModified" : 1778686043167
+    },
+    "linesOfCode" : 0
+  }, {
+    "path" : "resources\\js\\pages\\auth\\login.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1070031663,
+      "lastModified" : 1778686043167
+    },
+    "linesOfCode" : 147
+  }, {
+    "path" : "resources\\js\\pages\\auth\\register.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1632473342,
+      "lastModified" : 1778686043167
+    },
+    "linesOfCode" : 238
+  }, {
+    "path" : "resources\\js\\pages\\auth\\reset-password.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1367397501,
+      "lastModified" : 1778686043167
+    },
+    "linesOfCode" : 98
+  }, {
+    "path" : "resources\\js\\pages\\auth\\verify-email.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1991257060,
+      "lastModified" : 1778686043167
+    },
+    "linesOfCode" : 41
+  }, {
+    "path" : "resources\\js\\pages\\dashboard.tsx",
+    "modificationInfo" : {
+      "contentHash" : -47318504,
+      "lastModified" : 1778686043173
+    },
+    "linesOfCode" : 223
+  }, {
+    "path" : "resources\\js\\pages\\settings\\__tests__\\profile.test.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2106391348,
+      "lastModified" : 1778686043174
+    },
+    "linesOfCode" : 257
+  }, {
+    "path" : "resources\\js\\pages\\settings\\appearance.tsx",
+    "modificationInfo" : {
+      "contentHash" : -120655523,
+      "lastModified" : 1778686043174
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "resources\\js\\pages\\settings\\password.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1539837198,
+      "lastModified" : 1778686043174
+    },
+    "linesOfCode" : 131
+  }, {
+    "path" : "resources\\js\\pages\\settings\\profile.tsx",
+    "modificationInfo" : {
+      "contentHash" : 1080784678,
+      "lastModified" : 1778686043174
+    },
+    "linesOfCode" : 413
+  }, {
+    "path" : "resources\\js\\pages\\welcome.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1492800497,
+      "lastModified" : 1778686043179
+    },
+    "linesOfCode" : 340
+  }, {
+    "path" : "resources\\js\\ssr.tsx",
+    "modificationInfo" : {
+      "contentHash" : 2018638886,
+      "lastModified" : 1778686043179
+    },
+    "linesOfCode" : 30
+  }, {
+    "path" : "resources\\js\\test-utils\\setup.ts",
+    "modificationInfo" : {
+      "contentHash" : -770125549,
+      "lastModified" : 1778686043179
+    },
+    "linesOfCode" : 60
+  }, {
+    "path" : "resources\\js\\test-utils\\test-helpers.tsx",
+    "modificationInfo" : {
+      "contentHash" : -1824099520,
+      "lastModified" : 1778686043181
+    },
+    "linesOfCode" : 106
+  }, {
+    "path" : "resources\\js\\types\\assessment.ts",
+    "modificationInfo" : {
+      "contentHash" : 1399124598,
+      "lastModified" : 1778686043181
+    },
+    "linesOfCode" : 82
+  }, {
+    "path" : "resources\\js\\types\\auth.d.ts",
+    "modificationInfo" : {
+      "contentHash" : 1449949179,
+      "lastModified" : 1778686043181
+    },
+    "linesOfCode" : 42
+  }, {
+    "path" : "resources\\js\\types\\global.d.ts",
+    "modificationInfo" : {
+      "contentHash" : -412058332,
+      "lastModified" : 1778686043184
+    },
+    "linesOfCode" : 5
+  }, {
+    "path" : "resources\\js\\types\\index.d.ts",
+    "modificationInfo" : {
+      "contentHash" : 1883034486,
+      "lastModified" : 1778686043184
+    },
+    "linesOfCode" : 476
+  }, {
+    "path" : "resources\\js\\types\\vite-env.d.ts",
+    "modificationInfo" : {
+      "contentHash" : 1908583301,
+      "lastModified" : 1778686043187
+    },
+    "linesOfCode" : 1
+  }, {
+    "path" : "resources\\js\\ziggy.js",
+    "modificationInfo" : {
+      "contentHash" : 2039679836,
+      "lastModified" : 1778686043187
+    },
+    "linesOfCode" : 5
+  }, {
+    "path" : "resources\\views\\app.blade.php",
+    "modificationInfo" : {
+      "contentHash" : -1449964368,
+      "lastModified" : 1778686043187
+    },
+    "linesOfCode" : 50
+  }, {
+    "path" : "resources\\views\\emails\\assessment-approved.blade.php",
+    "modificationInfo" : {
+      "contentHash" : -1262714304,
+      "lastModified" : 1778686043190
+    },
+    "linesOfCode" : 29
+  }, {
+    "path" : "resources\\views\\emails\\assessment-revision-requested.blade.php",
+    "modificationInfo" : {
+      "contentHash" : 1728064976,
+      "lastModified" : 1778686043190
+    },
+    "linesOfCode" : 29
+  }, {
+    "path" : "routes\\api.php",
+    "modificationInfo" : {
+      "contentHash" : 1818140803,
+      "lastModified" : 1778686043190
+    },
+    "linesOfCode" : 51
+  }, {
+    "path" : "routes\\auth.php",
+    "modificationInfo" : {
+      "contentHash" : 890856899,
+      "lastModified" : 1778686043190
+    },
+    "linesOfCode" : 57
+  }, {
+    "path" : "routes\\console.php",
+    "modificationInfo" : {
+      "contentHash" : -1125112499,
+      "lastModified" : 1778686043190
+    },
+    "linesOfCode" : 26
+  }, {
+    "path" : "routes\\settings.php",
+    "modificationInfo" : {
+      "contentHash" : -1702038201,
+      "lastModified" : 1778686043190
+    },
+    "linesOfCode" : 26
+  }, {
+    "path" : "routes\\web.php",
+    "modificationInfo" : {
+      "contentHash" : -1454522339,
+      "lastModified" : 1778708818095
+    },
+    "linesOfCode" : 562
+  }, {
+    "path" : "tests\\Browser\\AdminKampusManagementTest.php",
+    "modificationInfo" : {
+      "contentHash" : 315093366,
+      "lastModified" : 1778686043216
+    },
+    "linesOfCode" : 518
+  }, {
+    "path" : "tests\\Browser\\AssessmentManagementTest.php",
+    "modificationInfo" : {
+      "contentHash" : -263470050,
+      "lastModified" : 1778686043218
+    },
+    "linesOfCode" : 96
+  }, {
+    "path" : "tests\\Browser\\DashboardStatisticsTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1741829149,
+      "lastModified" : 1778686043218
+    },
+    "linesOfCode" : 382
+  }, {
+    "path" : "tests\\Browser\\ExampleTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1241462519,
+      "lastModified" : 1778686043220
+    },
+    "linesOfCode" : 10
+  }, {
+    "path" : "tests\\Browser\\Pages\\HomePage.php",
+    "modificationInfo" : {
+      "contentHash" : 424523538,
+      "lastModified" : 1778686043220
+    },
+    "linesOfCode" : 36
+  }, {
+    "path" : "tests\\Browser\\Pages\\Page.php",
+    "modificationInfo" : {
+      "contentHash" : -1765373915,
+      "lastModified" : 1778686043222
+    },
+    "linesOfCode" : 20
+  }, {
+    "path" : "tests\\Browser\\ProfileManagementTest.php",
+    "modificationInfo" : {
+      "contentHash" : -976766677,
+      "lastModified" : 1778686043224
+    },
+    "linesOfCode" : 312
+  }, {
+    "path" : "tests\\Browser\\UniversityManagementTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1301660179,
+      "lastModified" : 1778686043225
+    },
+    "linesOfCode" : 466
+  }, {
+    "path" : "tests\\Browser\\UserManagementTest.php",
+    "modificationInfo" : {
+      "contentHash" : 484936411,
+      "lastModified" : 1778686043226
+    },
+    "linesOfCode" : 483
+  }, {
+    "path" : "tests\\DuskTestCase.php",
+    "modificationInfo" : {
+      "contentHash" : -1004534620,
+      "lastModified" : 1778686043234
+    },
+    "linesOfCode" : 48
+  }, {
+    "path" : "tests\\Feature\\AdminKampus\\AgendaTest.php",
+    "modificationInfo" : {
+      "contentHash" : 295166755,
+      "lastModified" : 1778686043236
+    },
+    "linesOfCode" : 236
+  }, {
+    "path" : "tests\\Feature\\AdminKampus\\AssessmentApprovalTest.php",
+    "modificationInfo" : {
+      "contentHash" : -689909642,
+      "lastModified" : 1778686043236
+    },
+    "linesOfCode" : 279
+  }, {
+    "path" : "tests\\Feature\\AdminKampus\\AssessmentNotesTest.php",
+    "modificationInfo" : {
+      "contentHash" : 495821182,
+      "lastModified" : 1778686043238
+    },
+    "linesOfCode" : 390
+  }, {
+    "path" : "tests\\Feature\\AdminKampus\\JournalCreateTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1151823668,
+      "lastModified" : 1778686043239
+    },
+    "linesOfCode" : 270
+  }, {
+    "path" : "tests\\Feature\\AdminKampus\\JournalHarvestTest.php",
+    "modificationInfo" : {
+      "contentHash" : -914480844,
+      "lastModified" : 1778686043239
+    },
+    "linesOfCode" : 84
+  }, {
+    "path" : "tests\\Feature\\Auth\\AuthenticationTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1679286831,
+      "lastModified" : 1778686043239
+    },
+    "linesOfCode" : 44
+  }, {
+    "path" : "tests\\Feature\\Auth\\EmailVerificationTest.php",
+    "modificationInfo" : {
+      "contentHash" : -529817347,
+      "lastModified" : 1778686043239
+    },
+    "linesOfCode" : 49
+  }, {
+    "path" : "tests\\Feature\\Auth\\PasswordConfirmationTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1719391252,
+      "lastModified" : 1778686043244
+    },
+    "linesOfCode" : 35
+  }, {
+    "path" : "tests\\Feature\\Auth\\PasswordResetTest.php",
+    "modificationInfo" : {
+      "contentHash" : 62068058,
+      "lastModified" : 1778686043244
+    },
+    "linesOfCode" : 63
+  }, {
+    "path" : "tests\\Feature\\Auth\\RegistrationTest.php",
+    "modificationInfo" : {
+      "contentHash" : 973021489,
+      "lastModified" : 1778686043244
+    },
+    "linesOfCode" : 21
+  }, {
+    "path" : "tests\\Feature\\Controller\\AdminKampusControllerTest.php",
+    "modificationInfo" : {
+      "contentHash" : 643644352,
+      "lastModified" : 1778686043247
+    },
+    "linesOfCode" : 876
+  }, {
+    "path" : "tests\\Feature\\Controllers\\Admin\\AccreditationTemplateControllerTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1350074569,
+      "lastModified" : 1778686043250
+    },
+    "linesOfCode" : 473
+  }, {
+    "path" : "tests\\Feature\\DashboardCacheTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1158070096,
+      "lastModified" : 1778686043250
+    },
+    "linesOfCode" : 455
+  }, {
+    "path" : "tests\\Feature\\DashboardPerformanceTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1846509552,
+      "lastModified" : 1778686043250
+    },
+    "linesOfCode" : 352
+  }, {
+    "path" : "tests\\Feature\\DashboardStatisticsTest.php",
+    "modificationInfo" : {
+      "contentHash" : 882023680,
+      "lastModified" : 1778686043250
+    },
+    "linesOfCode" : 545
+  }, {
+    "path" : "tests\\Feature\\DashboardTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1461011331,
+      "lastModified" : 1778686043250
+    },
+    "linesOfCode" : 14
+  }, {
+    "path" : "tests\\Feature\\ExampleTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1380568646,
+      "lastModified" : 1778686043254
+    },
+    "linesOfCode" : 7
+  }, {
+    "path" : "tests\\Feature\\Journal\\CoverUploadTest.php",
+    "modificationInfo" : {
+      "contentHash" : -442443501,
+      "lastModified" : 1778686043254
+    },
+    "linesOfCode" : 360
+  }, {
+    "path" : "tests\\Feature\\Policies\\HierarchyPolicyTest.php",
+    "modificationInfo" : {
+      "contentHash" : -958635218,
+      "lastModified" : 1778686043254
+    },
+    "linesOfCode" : 308
+  }, {
+    "path" : "tests\\Feature\\PublicHomeTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1443595838,
+      "lastModified" : 1778686043258
+    },
+    "linesOfCode" : 70
+  }, {
+    "path" : "tests\\Feature\\PublicJournalTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1041601260,
+      "lastModified" : 1778686043258
+    },
+    "linesOfCode" : 72
+  }, {
+    "path" : "tests\\Feature\\Public\\EventTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1675900414,
+      "lastModified" : 1778686043258
+    },
+    "linesOfCode" : 101
+  }, {
+    "path" : "tests\\Feature\\Seeder\\test_rollback.php",
+    "modificationInfo" : {
+      "contentHash" : 847315902,
+      "lastModified" : 1778686043258
+    },
+    "linesOfCode" : 53
+  }, {
+    "path" : "tests\\Feature\\Seeder\\test_step4.php",
+    "modificationInfo" : {
+      "contentHash" : 1649613812,
+      "lastModified" : 1778686043262
+    },
+    "linesOfCode" : 144
+  }, {
+    "path" : "tests\\Feature\\Settings\\AvatarTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1962402719,
+      "lastModified" : 1778686043262
+    },
+    "linesOfCode" : 206
+  }, {
+    "path" : "tests\\Feature\\Settings\\PasswordUpdateTest.php",
+    "modificationInfo" : {
+      "contentHash" : -400416071,
+      "lastModified" : 1778686043262
+    },
+    "linesOfCode" : 42
+  }, {
+    "path" : "tests\\Feature\\Settings\\ProfileUpdateTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1971611556,
+      "lastModified" : 1778686043266
+    },
+    "linesOfCode" : 217
+  }, {
+    "path" : "tests\\Feature\\User\\JournalCreateTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1023433734,
+      "lastModified" : 1778686043267
+    },
+    "linesOfCode" : 399
+  }, {
+    "path" : "tests\\Feature\\User\\JournalFormFixTest.php",
+    "modificationInfo" : {
+      "contentHash" : 968528777,
+      "lastModified" : 1778686043267
+    },
+    "linesOfCode" : 154
+  }, {
+    "path" : "tests\\Feature\\User\\JournalHarvestTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1231173068,
+      "lastModified" : 1778686043270
+    },
+    "linesOfCode" : 65
+  }, {
+    "path" : "tests\\Feature\\User\\ProfilTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1655427328,
+      "lastModified" : 1778686043270
+    },
+    "linesOfCode" : 288
+  }, {
+    "path" : "tests\\Pest.php",
+    "modificationInfo" : {
+      "contentHash" : -1700009992,
+      "lastModified" : 1778686043270
+    },
+    "linesOfCode" : 55
+  }, {
+    "path" : "tests\\TestCase.php",
+    "modificationInfo" : {
+      "contentHash" : 795553764,
+      "lastModified" : 1778686043270
+    },
+    "linesOfCode" : 154
+  }, {
+    "path" : "tests\\Unit\\ExampleTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1906651568,
+      "lastModified" : 1778686043270
+    },
+    "linesOfCode" : 5
+  }, {
+    "path" : "tests\\Unit\\Models\\AccreditationTemplateTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1638027253,
+      "lastModified" : 1778686043270
+    },
+    "linesOfCode" : 211
+  }, {
+    "path" : "tests\\Unit\\Models\\EssayQuestionTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1673571509,
+      "lastModified" : 1778686043270
+    },
+    "linesOfCode" : 166
+  }, {
+    "path" : "tests\\Unit\\Models\\EvaluationCategoryTest.php",
+    "modificationInfo" : {
+      "contentHash" : 2077716319,
+      "lastModified" : 1778686043278
+    },
+    "linesOfCode" : 143
+  }, {
+    "path" : "tests\\Unit\\Models\\EvaluationIndicatorTest.php",
+    "modificationInfo" : {
+      "contentHash" : 75291167,
+      "lastModified" : 1778686043279
+    },
+    "linesOfCode" : 153
+  }, {
+    "path" : "tests\\Unit\\Models\\EvaluationSubCategoryTest.php",
+    "modificationInfo" : {
+      "contentHash" : -1208335114,
+      "lastModified" : 1778686043279
+    },
+    "linesOfCode" : 149
+  }, {
+    "path" : "tests\\Unit\\Models\\JournalStatisticsTest.php",
+    "modificationInfo" : {
+      "contentHash" : 1236639373,
+      "lastModified" : 1778686043281
+    },
+    "linesOfCode" : 322
+  }, {
+    "path" : "tests\\Unit\\Models\\test_step3.php",
+    "modificationInfo" : {
+      "contentHash" : 558907875,
+      "lastModified" : 1778686043281
+    },
+    "linesOfCode" : 84
+  }, {
+    "path" : "tests\\Unit\\OAIPMHHarvesterTest.php",
+    "modificationInfo" : {
+      "contentHash" : 207611867,
+      "lastModified" : 1778686043281
+    },
+    "linesOfCode" : 110
+  }, {
+    "path" : "vite.config.ts",
+    "modificationInfo" : {
+      "contentHash" : 680368800,
+      "lastModified" : 1778686043284
+    },
+    "linesOfCode" : 50
+  }, {
+    "path" : "vitest.config.ts",
+    "modificationInfo" : {
+      "contentHash" : 1983560406,
+      "lastModified" : 1778686043284
+    },
+    "linesOfCode" : 35
+  } ],
+  "appVersion" : "1.3.0"
+}

@@ -25,3 +25,5 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
+
+.bevel/do_not_share
