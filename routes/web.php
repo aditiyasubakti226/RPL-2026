@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\EvaluationCategoryController;
 use App\Http\Controllers\Admin\EvaluationIndicatorController;
 use App\Http\Controllers\Admin\EvaluationSubCategoryController;
 use App\Http\Controllers\Admin\PembinaanController as AdminPembinaanController;
+use App\Http\Controllers\Admin\ReportController;
 use App\Http\Controllers\Admin\UniversityController;
 use App\Http\Controllers\AdminKampus\AssessmentController as AdminKampusAssessmentController;
 use App\Http\Controllers\AdminKampus\JournalApprovalController;
@@ -255,6 +256,12 @@ Route::middleware(['auth'])->group(function () {
                 ->name('destroy');
             Route::post('{pembinaan}/toggle-status', [AdminPembinaanController::class, 'toggleStatus'])
                 ->name('toggle-status');
+        });
+
+        // Report Generator & Export (Rekap Penelitian)
+        Route::prefix('report')->name('report.')->group(function () {
+            Route::get('generator', [ReportController::class, 'generator'])->name('generator');
+            Route::post('export', [ReportController::class, 'exportExcel'])->name('export');
         });
 
     });
