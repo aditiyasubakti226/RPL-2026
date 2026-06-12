@@ -15,14 +15,28 @@ def run_command(cmd):
         print(e.stderr)
         sys.exit(1)
 
+def get_repo_name():
+    try:
+        url = run_command("git remote get-url origin")
+        if url.endswith(".git"):
+            url = url[:-4]
+        parts = url.replace(":", "/").split("/")
+        return f"{parts[-2]}/{parts[-1]}"
+    except Exception:
+        return None
+
 def fetch_prs():
-    print("Mengambil daftar Pull Request aktif dari GitHub...")
-    output = run_command("gh pr list --json number,title,author,headRefName")
+    repo = get_repo_name()
+    repo_arg = f" -R {repo}" if repo else ""
+    print(f"Mengambil daftar Pull Request aktif dari GitHub ({repo if repo else 'default'})...")
+    output = run_command(f"gh pr list{repo_arg} --json number,title,author,headRefName")
     return json.loads(output)
 
 def get_pr_diff(pr_number):
+    repo = get_repo_name()
+    repo_arg = f" -R {repo}" if repo else ""
     print(f"Mengambil diff untuk PR #{pr_number}...")
-    return run_command(f"gh pr diff {pr_number}")
+    return run_command(f"gh pr diff {pr_number}{repo_arg}")
 
 def select_prs(prs):
     if not prs:
@@ -98,8 +112,10 @@ KODE DIFF YANG BERUBAH:
 
 
 def post_comment(pr_number, report_path):
+    repo = get_repo_name()
+    repo_arg = f" -R {repo}" if repo else ""
     print(f"Memposting komentar review ke PR #{pr_number} di GitHub...")
-    run_command(f'gh pr comment {pr_number} --body-file "{report_path}"')
+    run_command(f'gh pr comment {pr_number}{repo_arg} --body-file "{report_path}"')
     print(f"✔ Komentar berhasil diposting ke PR #{pr_number}!")
 
 async def main():
