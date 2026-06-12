@@ -96,3 +96,65 @@ KODE DIFF YANG BERUBAH:
         print(f"Error saat melakukan review PR #{pr['number']}: {e}")
         return None, None
 
+
+def post_comment(pr_number, report_path):
+    print(f"Memposting komentar review ke PR #{pr_number} di GitHub...")
+    run_command(f'gh pr comment {pr_number} --body-file "{report_path}"')
+    print(f"✔ Komentar berhasil diposting ke PR #{pr_number}!")
+
+async def main():
+    print("=== RPL-2026 Hybrid PR Reviewer (Python & Antigravity SDK) ===")
+    try:
+        prs = fetch_prs()
+        selected = select_prs(prs)
+        
+        if not selected:
+            print("Tidak ada PR yang dipilih. Keluar.")
+            return
+
+        for pr in selected:
+            print(f"\n--------------------------------------------")
+            print(f"Memproses PR #{pr['number']}: \"{pr['title']}\"")
+            print(f"--------------------------------------------")
+            
+            diff = get_pr_diff(pr['number'])
+            if not diff:
+                print(f"PR #{pr['number']} tidak memiliki perubahan kode.")
+                continue
+                
+            report_path, report_content = await review_pr(pr, diff)
+            if not report_path:
+                continue
+                
+            print(f"✔ Review selesai. Laporan disimpan ke: {report_path}")
+            
+            # Cek keputusan AI
+            decision = "TIDAK TERDETEKSI"
+            if "APPROVED" in report_content:
+                decision = "✅ APPROVED"
+            elif "REQUEST CHANGES" in report_content:
+                decision = "❌ REQUEST CHANGES"
+            print(f"Hasil Keputusan AI: {decision}")
+            
+            # Konfirmasi posting
+            questions = [
+                inquirer.Confirm(
+                    'post',
+                    message=f"Apakah Anda ingin memposting komentar review ke GitHub PR #{pr['number']}?",
+                    default=False
+                )
+            ]
+            confirm = inquirer.prompt(questions)
+            
+            if confirm and confirm.get('post'):
+                post_comment(pr['number'], report_path)
+            else:
+                print("Review disimpan di lokal saja.")
+                
+        print("\n✔ Semua proses review PR selesai.")
+    except Exception as e:
+        print(f"Fatal Error: {e}")
+
+if __name__ == "__main__":
+    asyncio.run(main())
+
