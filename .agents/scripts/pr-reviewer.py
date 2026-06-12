@@ -29,7 +29,7 @@ def fetch_prs():
     repo = get_repo_name()
     repo_arg = f" -R {repo}" if repo else ""
     print(f"Mengambil daftar Pull Request aktif dari GitHub ({repo if repo else 'default'})...")
-    output = run_command(f"gh pr list{repo_arg} --json number,title,author,headRefName")
+    output = run_command(f"gh pr list{repo_arg} --limit 100 --json number,title,author,headRefName")
     return json.loads(output)
 
 def get_pr_diff(pr_number):
