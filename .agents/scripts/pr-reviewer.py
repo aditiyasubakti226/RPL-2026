@@ -6,6 +6,22 @@ import asyncio
 import inquirer
 from google.antigravity import Agent, LocalAgentConfig
 
+def load_env():
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(os.path.dirname(script_dir))
+    env_path = os.path.join(root_dir, '.env')
+    if os.path.exists(env_path):
+        with open(env_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, val = line.split('=', 1)
+                    # Strip quotes if present
+                    val_str = val.strip()
+                    if (val_str.startswith('"') and val_str.endswith('"')) or (val_str.startswith("'") and val_str.endswith("'")):
+                        val_str = val_str[1:-1]
+                    os.environ[key.strip()] = val_str
+
 def run_command(cmd):
     try:
         result = subprocess.run(cmd, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
@@ -121,6 +137,7 @@ def post_comment(pr_number, report_path):
 async def main():
     print("=== RPL-2026 Hybrid PR Reviewer (Python & Antigravity SDK) ===")
     try:
+        load_env()
         prs = fetch_prs()
         selected = select_prs(prs)
         
