@@ -66,28 +66,30 @@ This document defines the rules and guidelines for reviewing Pull Requests (PRs)
 - **Backend Tests**: Ensure Pest tests exist for new features.
 - **Browser Tests**: Ensure Laravel Dusk tests cover critical user flows.
 
-## 6. Output Review Report Template
-All review reports must be formatted in Markdown using this exact template:
+## 6. Bahasa & Template Laporan Review
+Laporan review **wajib** ditulis dalam **Bahasa Indonesia** secara profesional dan terstruktur.
+
+Semua laporan review harus diformat dalam Markdown menggunakan template berikut:
 ```markdown
-# PR Review Report: PR #<PR_NUMBER> - <PR_TITLE>
-**Author:** <Real Name> (@<GitHub Username>)
-**Target Branch:** <Base Branch> (Verdict: <PASS/FAIL - TARGET BRANCH MUST BE development>)
+# Laporan Review PR: PR #<PR_NUMBER> - <PR_TITLE>
+**Penulis:** <Nama Lengkap> (@<Username GitHub>)
+**Target Branch:** <Target Branch> (Keputusan Target Branch: <SESUAI/TIDAK SESUAI - TARGET BRANCH HARUS development>)
 
 ---
 
-## 📊 Verdict
+## 📊 Keputusan (Verdict)
 * **Status:** <APPROVED | REQUEST_CHANGES | COMMENT>
-* **Summary:** <A concise 2-3 sentence summary of the PR and review outcome.>
+* **Ringkasan:** <Ringkasan singkat 2-3 kalimat mengenai PR dan hasil review.>
 
-## ⚠️ Critical Issues / Security (Multi-Tenancy)
-- <Detail any authorization bypasses, multi-tenancy leakage, or major logic bugs. If none, write "None found.">
+## ⚠️ Masalah Kritis / Keamanan (Multi-Tenancy)
+- <Detail celah otorisasi, kebocoran multi-tenancy, atau bug logika utama. Jika tidak ada, tulis "Tidak ditemukan masalah kritis.">
 
-## 🛠️ Architecture & Code Standards
-- <Detail any violations of naming conventions, namespaces, JSDoc headers, or Inertia form patterns. If none, write "Complies with standards.">
+## 🛠️ Arsitektur & Standar Kode
+- <Detail pelanggaran konvensi penamaan, namespace, header JSDoc, atau pola form Inertia. Jika tidak ada, tulis "Sesuai dengan standar proyek.">
 
-## 🧪 Testing & Code Quality
-- <Detail any lacking test coverage or issues with linting. If none, write "All checks pass.">
+## 🧪 Pengujian & Kualitas Kode
+- <Detail kurangnya cakupan pengujian (test coverage) atau masalah linting. Jika tidak ada, tulis "Semua pengujian dan pengecekan linting lolos.">
 
-## 💡 Recommendations & Actions
-- <Bullet points of actionable recommendations, including branch retargeting if needed.>
+## 💡 Rekomendasi Tindakan
+- <Poin-poin tindakan yang direkomendasikan untuk diperbaiki oleh penulis PR, termasuk instruksi pemindahan target branch ke development jika tidak sesuai.>
 ```
