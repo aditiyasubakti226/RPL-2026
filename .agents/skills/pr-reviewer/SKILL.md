@@ -15,11 +15,15 @@ When the user requests a PR review, follow these exact steps:
    - Run: `gh pr list --limit 30 --json number,title,author,headRefName`
    - Present the list of active PRs to the user in a clear table format and ask them to select one or more.
 
-2. **Get PR Code Changes**:
+2. **Get PR Metadata & Code Changes**:
+   - Run: `gh pr view <PR_NUMBER> --json baseRefName,author,title,body` to extract PR target branch and author details.
    - Run: `gh pr diff <PR_NUMBER>` to extract the code changes.
 
 3. **Read Review Guidelines**:
-   - Read the project's review rules from: `.agents/workflows/review-instructions.md` (if the file doesn't exist, fall back to general code review focusing on Laravel/PHP/React/Tailwind best practices, security, and logical bugs).
+   - Read the project's review rules from: `.agents/rules/review-instructions.md` (if the file doesn't exist, fall back to general code review focusing on Laravel/PHP/React/Tailwind best practices, security, and logical bugs).
+   - In addition, read the class assignment documents to map the author's GitHub username to their real name:
+     - `docs/guidence rpl 2026/Penugasan_RPL_Kelas_B.md`
+     - `docs/guidence rpl 2026/Penugasan_RPL_Kelas_G.md`
 
 4. **Perform Code Analysis**:
    - Review the diff against the guidelines. Check for logic errors, security issues, performance bottlenecks, and design patterns.
