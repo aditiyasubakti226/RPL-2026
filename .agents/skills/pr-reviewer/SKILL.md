@@ -16,8 +16,9 @@ When the user requests a PR review, follow these exact steps:
    - Present the list of active PRs to the user in a clear table format and ask them to select one or more.
 
 2. **Get PR Metadata & Code Changes**:
-   - Run: `gh pr view <PR_NUMBER> --json baseRefName,author,title,body` to extract PR target branch and author details.
-   - Run: `gh pr diff <PR_NUMBER>` to extract the code changes.
+   - Pastikan folder tujuan tersedia, buat jika belum ada: `.agents/reviews/meta/` dan `.agents/reviews/diff/`.
+   - Jalankan: `gh pr view <PR_NUMBER> --json baseRefName,author,title,body > .agents/reviews/meta/PR-<PR_NUMBER>-meta.json` untuk mengambil dan menyimpan detail metadata PR.
+   - Jalankan: `gh pr diff <PR_NUMBER> > .agents/reviews/diff/PR-<PR_NUMBER>.diff` untuk mengambil dan menyimpan perubahan kode PR.
 
 3. **Read Review Guidelines**:
    - Read the project's review rules from: `.agents/rules/review-instructions.md` (if the file doesn't exist, fall back to general code review focusing on Laravel/PHP/React/Tailwind best practices, security, and logical bugs).
